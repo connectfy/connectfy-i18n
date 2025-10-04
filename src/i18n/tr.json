@@ -37,18 +37,6 @@
       "banned_message": "Hesabınız {{bannedToDate}} tarihine kadar yasaklanmıştır",
       "same_data": "{{field}} eskiyle aynı olamaz"
     },
-    "exception_types": {
-      "internal_server_error": "InternalServerError",
-      "bad_request": "BadRequest",
-      "unauthorized": "Unauthorized",
-      "forbidden": "Forbidden",
-      "not_found": "NotFound",
-      "conflict": "Conflict",
-      "unprocessable_entity": "UnprocessableEntity",
-      "gone": "Gone",
-      "too_many_requests": "TooManyRequests",
-      "already_exists": "AlreadyExists"
-    },
     "fields": {
       "_id": "id",
       "_ids": "ids",
@@ -104,7 +92,8 @@
       "status": "Durum",
       "blocklistId": "Engel listesi Id",
       "blockerId": "Engelleyen Id",
-      "blockedId": "Engellenen Id"
+      "blockedId": "Engellenen Id",
+      "_lang": "Dil"
     },
     "email_messages": {
       "signup_verify": {
@@ -126,7 +115,8 @@
         "fallback": "Yukarıdaki buton çalışmıyorsa lütfen aşağıdaki URL'yi kopyalayıp tarayıcınıza yapıştırın:",
         "expiry": "Bu bağlantı <strong>1 saat</strong> içinde geçerli olacaktır. Eğer bu isteği siz yapmadıysanız, bu e-postayı görmezden gelebilirsiniz.",
         "support": "Herhangi bir sorunuz veya yardıma ihtiyacınız olursa, destek ekibimizle iletişime geçin:",
-        "thank_you": "Teşekkürler,"
+        "thank_you": "Teşekkürler,",
+        "team": "Connectfy Ekibi"
       },
       "email_not_found": {
         "mail_subject": "Şifre Sıfırlama - Hesap Bulunamadı",
@@ -135,7 +125,8 @@
         "instruction": "Bunun bir hata olduğunu düşünüyorsanız doğru e-posta adresini girdiğinizden emin olun. Alternatif olarak yeni bir hesap oluşturabilirsiniz:",
         "button": "Şimdi Kaydol",
         "support": "Herhangi bir sorunuz veya yardıma ihtiyacınız olursa, destek ekibimizle iletişime geçin:",
-        "thank_you": "Teşekkürler,"
+        "thank_you": "Teşekkürler,",
+        "team": "Connectfy Ekibi"
       },
       "google_sign_in": {
         "mail_subject": "Şifre Sıfırlama - Google ile Giriş Tespit Edildi",
@@ -145,7 +136,8 @@
         "button": "Giriş Sayfasına Git",
         "ignore": "Şifre sıfırlama denemesi yapmadıysanız ve bunun bir hata olduğunu düşünüyorsanız bu e-postayı görmezden gelebilirsiniz.",
         "support": "Herhangi bir sorunuz veya yardıma ihtiyacınız olursa, destek ekibimizle iletişime geçin:",
-        "thank_you": "Teşekkürler,"
+        "thank_you": "Teşekkürler,",
+        "team": "Connectfy Ekibi"
       },
       "delete_account": {
         "mail_subject": "Hesap Silme",
@@ -155,7 +147,8 @@
         "fallback": "Yukarıdaki buton çalışmıyorsa lütfen aşağıdaki URL'yi kopyalayıp tarayıcınıza yapıştırın:",
         "expiry": "Bu bağlantı <strong>1 saat</strong> içinde geçerli olacaktır. Eğer bu isteği siz yapmadıysanız, bu e-postayı görmezden gelebilirsiniz.",
         "support": "Herhangi bir sorunuz veya yardıma ihtiyacınız olursa, destek ekibimizle iletişime geçin:",
-        "thank_you": "Teşekkürler,"
+        "thank_you": "Teşekkürler,",
+        "team": "Connectfy Ekibi"
       },
       "delete_account_completed": {
         "mail_subject": "Hesap Silme Tamamlandı",
@@ -166,7 +159,8 @@
         "fallback": "Yukarıdaki buton çalışmıyorsa bu bağlantıyı kullanabilirsiniz:",
         "note": "Not: 30 günün sonunda hesabınız ve ilişkili tüm veriler kalıcı olarak silinecek ve geri getirilemeyecektir.",
         "support": "Eğer bu silme talebini siz yapmadıysanız veya yardıma ihtiyacınız varsa lütfen destek ekibimizle iletişime geçin:",
-        "signature": "Saygılarımızla,"
+        "signature": "Saygılarımızla,",
+        "team": "Connectfy Ekibi"
       },
       "verify_yourself": {
         "subject": "Kayıtınızı Onaylayın",

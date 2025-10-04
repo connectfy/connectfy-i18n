@@ -37,18 +37,6 @@
       "banned_message": "Hesabınız {{bannedToDate}} tarixinədək bloklanıb",
       "same_data": "{{field}} əvvəlki ilə eyni ola bilməz"
     },
-    "exception_types": {
-      "internal_server_error": "InternalServerError",
-      "bad_request": "BadRequest",
-      "unauthorized": "Unauthorized",
-      "forbidden": "Forbidden",
-      "not_found": "NotFound",
-      "conflict": "Conflict",
-      "unprocessable_entity": "UnprocessableEntity",
-      "gone": "Gone",
-      "too_many_requests": "TooManyRequests",
-      "already_exists": "AlreadyExists"
-    },
     "fields": {
       "_id": "id",
       "_ids": "ids",
@@ -104,7 +92,8 @@
       "status": "Status",
       "blocklistId": "Blok siyahısı Id",
       "blockerId": "Bloklayan Id",
-      "blockedId": "Bloklanan Id"
+      "blockedId": "Bloklanan Id",
+      "_lang": "Dil"
     },
     "email_messages": {
       "signup_verify": {
@@ -126,7 +115,8 @@
         "fallback": "Yuxarıdakı düymə işləmirəksə, aşağıdakı URL-i kopyalayıb brauzerinizə yapışdırın:",
         "expiry": "Bu bağlantı <strong>1 saat</strong> ərzində etibarlıdır. Əgər bu sorğunu siz etməmisinizsə, bu e-poçtu nəzərə almaya bilərsiniz.",
         "support": "Sualınız varsa və ya köməyə ehtiyacınız olarsa, dəstək komandamızla əlaqə saxlaya bilərsiniz:",
-        "thank_you": "Təşəkkürlər,"
+        "thank_you": "Təşəkkürlər,",
+        "team": "Connectfy komandası"
       },
       "email_not_found": {
         "mail_subject": "Şifrə sıfırlama - Hesab tapılmadı",
@@ -135,7 +125,8 @@
         "instruction": "Əgər bunun səhv olduğunu düşünürsünüzsə, düzgün e-poçt ünvanını daxil etdiyinizə əmin olun. Əks halda yeni hesab üçün qeydiyyatdan keçə bilərsiniz:",
         "button": "İndi qeydiyyatdan keçin",
         "support": "Sualınız varsa və ya köməyə ehtiyacınız olarsa, dəstək komandamızla əlaqə saxlaya bilərsiniz:",
-        "thank_you": "Təşəkkürlər,"
+        "thank_you": "Təşəkkürlər,",
+        "team": "Connectfy komandası"
       },
       "google_sign_in": {
         "mail_subject": "Şifrə sıfırlama - Google ilə giriş aşkarlandı",
@@ -145,7 +136,8 @@
         "button": "Giriş səhifəsinə keçin",
         "ignore": "Əgər şifrə sıfırlama cəhdində olmadınızsa və bunun səhv olduğunu düşünürsünüzsə, bu e-poçtu nəzərə almaya bilərsiniz.",
         "support": "Sualınız varsa və ya köməyə ehtiyacınız olarsa, dəstək komandamızla əlaqə saxlaya bilərsiniz:",
-        "thank_you": "Təşəkkürlər,"
+        "thank_you": "Təşəkkürlər,",
+        "team": "Connectfy komandası"
       },
       "delete_account": {
         "mail_subject": "Hesabın silinməsi",
@@ -155,7 +147,8 @@
         "fallback": "Yuxarıdakı düymə işləmirəksə, aşağıdakı URL-i kopyalayıb brauzerinizə yapışdırın:",
         "expiry": "Bu bağlantı <strong>1 saat</strong> ərzində etibarlıdır. Əgər bu sorğunu siz etməmisinizsə, bu e-poçtu nəzərə almaya bilərsiniz.",
         "support": "Sualınız varsa və ya köməyə ehtiyacınız olarsa, dəstək komandamızla əlaqə saxlaya bilərsiniz:",
-        "thank_you": "Təşəkkürlər,"
+        "thank_you": "Təşəkkürlər,",
+        "team": "Connectfy komandası"
       },
       "delete_account_completed": {
         "mail_subject": "Hesab silinməsi tamamlandı",
@@ -166,7 +159,8 @@
         "fallback": "Yuxarıdakı düymə işləmirəksə, bu linkdən istifadə edə bilərsiniz:",
         "note": "Qeyd: 30 gündən sonra hesabınız və ona bağlı bütün məlumatlar daimi olaraq silinəcək və bərpa edilə bilməyəcək.",
         "support": "Əgər bu silinməni siz tələb etməmisinizsə və ya köməkə ehtiyacınız varsa, zəhmət olmasa dəstək komandamızla əlaqə saxlayın:",
-        "signature": "Hörmətlə,"
+        "signature": "Hörmətlə,",
+        "team": "Connectfy komandası"
       },
       "verify_yourself": {
         "subject": "Qeydiyyatınızı təsdiqləyin",

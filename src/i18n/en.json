@@ -37,18 +37,6 @@
       "banned_message": "Your account has been banned to until {{bannedToDate}}",
       "same_data": "{{field}} can not be same as old"
     },
-    "exception_types": {
-      "internal_server_error": "InternalServerError",
-      "bad_request": "BadRequest",
-      "unauthorized": "Unauthorized",
-      "forbidden": "Forbidden",
-      "not_found": "NotFound",
-      "conflict": "Conflict",
-      "unprocessable_entity": "UnprocessableEntity",
-      "gone": "Gone",
-      "too_many_requests": "TooManyRequests",
-      "already_exists": "AlreadyExists"
-    },
     "fields": {
       "_id": "id",
       "_ids": "ids",
@@ -104,7 +92,8 @@
       "status": "Status",
       "blocklistId": "Blocklist Id",
       "blockerId": "Blocker Id",
-      "blockedId": "Blocked Id"
+      "blockedId": "Blocked Id",
+      "_lang": "Language"
     },
     "email_messages": {
       "signup_verify": {
@@ -126,7 +115,8 @@
         "fallback": "If the button above does not work, please copy and paste the following URL into your browser:",
         "expiry": "This link will expire in <strong>1 hour</strong>. If you did not request this, you can safely ignore this email.",
         "support": "If you have any questions or need help, feel free to contact our support team at",
-        "thank_you": "Thank you,"
+        "thank_you": "Thank you,",
+        "team": "Connectfy Team"
       },
       "email_not_found": {
         "mail_subject": "Password Reset - Account Not Found",
@@ -135,7 +125,8 @@
         "instruction": "If you believe this is a mistake, please ensure you have entered the correct email address. Alternatively, you can register for a new account:",
         "button": "Register Now",
         "support": "If you have any questions or need help, feel free to contact our support team at",
-        "thank_you": "Thank you,"
+        "thank_you": "Thank you,",
+        "team": "Connectfy Team"
       },
       "google_sign_in": {
         "mail_subject": "Password Reset - Google Sign In Detected",
@@ -145,7 +136,8 @@
         "button": "Go to Login Page",
         "ignore": "If you did not try to reset your password and believe this is a mistake, you can ignore this email.",
         "support": "If you have any questions or need help, feel free to contact our support team at",
-        "thank_you": "Thank you,"
+        "thank_you": "Thank you,",
+        "team": "Connectfy Team"
       },
       "delete_account": {
         "mail_subject": "Account Deletion",
@@ -155,7 +147,8 @@
         "fallback": "If the button above does not work, please copy and paste the following URL into your browser:",
         "expiry": "This link will expire in <strong>1 hour</strong>. If you did not request this, you can safely ignore this email.",
         "support": "If you have any questions or need help, feel free to contact our support team at",
-        "thank_you": "Thank you,"
+        "thank_you": "Thank you,",
+        "team": "Connectfy Team"
       },
       "delete_account_completed": {
         "mail_subject": "Account Deletion Completed",
@@ -166,7 +159,8 @@
         "fallback": "If the button above does not work, you can use this link:",
         "note": "Note: After 30 days, your account and all associated data will be permanently removed and cannot be recovered.",
         "support": "If you did not request this deletion or need assistance, please contact our support team at",
-        "signature": "Best regards,"
+        "signature": "Best regards,",
+        "team": "Connectfy Team"
       },
       "verify_yourself": {
         "subject": "Confirm Your Registration",
