@@ -171,6 +171,22 @@
         "signature": "Saygılarımızla,",
         "team": "Connectfy Ekibi"
       }
+    },
+    "common": {
+      "login": "Giriş yap",
+      "signup": "Kayıt ol",
+      "google_login": "Google ile giriş yap",
+      "google_signup": "Google ile kayıt ol",
+      "already_have_accpount": "Zaten bir hesabın var mı?",
+      "do_not_have_account": "Hesabın yok mu?",
+      "forgot_password": "Şifreni mi unuttun?",
+      "login_with_username": "Kullanıcı adıyla giriş yap",
+      "login_with_email": "E-posta ile giriş yap",
+      "login_with_phone_number": "Telefon numarasıyla giriş yap",
+      "login_with_faceId": "Yüz tanıma ile giriş yap",
+      "change_theme": "Temayı değiştir",
+      "change_lang": "Dili değiştir",
+      "select_lang": "Dil seç"
     }
   }
 }

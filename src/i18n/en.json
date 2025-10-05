@@ -171,6 +171,22 @@
         "signature": "Best regards,",
         "team": "Connectfy Team"
       }
+    },
+    "common": {
+      "login": "Login",
+      "signup": "Signup",
+      "google_login": "Sign in with Google",
+      "google_signup": "Sign up with Google",
+      "already_have_accpount": "Already have an account?",
+      "do_not_have_account": "Don't have an account?",
+      "forgot_password": "Forgot password?",
+      "login_with_username": "Login with username",
+      "login_with_email": "Login with email",
+      "login_with_phone_number": "Login with phone number",
+      "login_with_faceId": "Login with face Id",
+      "change_theme": "Change theme",
+      "change_lang": "Change language",
+      "select_lang": "Select language"
     }
   }
 }

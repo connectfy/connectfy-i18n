@@ -171,6 +171,22 @@
         "signature": "С уважением,",
         "team": "Команда Connectfy"
       }
+    },
+    "common": {
+      "login": "Войти",
+      "signup": "Регистрация",
+      "google_login": "Войти через Google",
+      "google_signup": "Зарегистрироваться через Google",
+      "already_have_accpount": "Уже есть аккаунт?",
+      "do_not_have_account": "Нет аккаунта?",
+      "forgot_password": "Забыли пароль?",
+      "login_with_username": "Войти по имени пользователя",
+      "login_with_email": "Войти по электронной почте",
+      "login_with_phone_number": "Войти по номеру телефона",
+      "login_with_faceId": "Войти с помощью Face ID",
+      "change_theme": "Изменить тему",
+      "change_lang": "Изменить язык",
+      "select_lang": "Выберите язык"
     }
   }
 }

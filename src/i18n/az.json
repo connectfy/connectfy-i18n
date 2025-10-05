@@ -171,6 +171,22 @@
         "signature": "Hörmətlə,",
         "team": "Connectfy komandası"
       }
+    },
+    "common": {
+      "login": "Daxil ol",
+      "signup": "Qeydiyyat",
+      "google_login": "Google ilə daxil ol",
+      "google_signup": "Google ilə qeydiyyatdan keç",
+      "already_have_accpount": "Artıq hesabın var?",
+      "do_not_have_account": "Hesabın yoxdur?",
+      "forgot_password": "Şifrəni unutmusunuz?",
+      "login_with_username": "İstifadəçi adı ilə daxil ol",
+      "login_with_email": "E-poçt ilə daxil ol",
+      "login_with_phone_number": "Telefon nömrəsi ilə daxil ol",
+      "login_with_faceId": "Üz tanıma ilə daxil ol",
+      "change_theme": "Temanı dəyiş",
+      "change_lang": "Dili dəyiş",
+      "select_lang": "Dil seç"
     }
   }
 }
