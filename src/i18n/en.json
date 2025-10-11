@@ -205,6 +205,7 @@
       "verify_account_heading": "Almost there — enter the verification code.",
       "verify_account_message_part_1": "We sent a 6-digit verification code (OTP) to your email address:",
       "verify_account_message_part_2": "Please enter it below.",
+      "verify": "Verify",
       "back": "Back"
     },
     "enum": {
