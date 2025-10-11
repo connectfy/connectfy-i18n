@@ -206,33 +206,33 @@
       "verify_account_message_part_1": "We sent a 6-digit verification code (OTP) to your email address:",
       "verify_account_message_part_2": "Please enter it below.",
       "back": "Back"
+    },
+    "enum": {
+      "male": "Male",
+      "female": "Female",
+      "other": "Other"
+    },
+    "countries": {
+      "azerbaijan": "Azerbaijan",
+      "türkiye": "Türkiye",
+      "russia": "Russia",
+      "usa": "USA",
+      "uk": "United Kingdom",
+      "germany": "Germany",
+      "france": "France",
+      "spain": "Spain",
+      "italy": "Italy",
+      "china": "China",
+      "japan": "Japan",
+      "south_korea": "South Korea",
+      "ukraine": "Ukraine",
+      "georgia": "Georgia",
+      "iran": "Iran",
+      "india": "India",
+      "canada": "Canada",
+      "kazakhstan": "Kazakhstan",
+      "uzbekistan": "Uzbekistan",
+      "uae": "UAE"
     }
-  },
-  "enum": {
-    "male": "Male",
-    "female": "Female",
-    "other": "Other"
-  },
-  "countries": {
-    "azerbaijan": "Azerbaijan",
-    "türkiye": "Türkiye",
-    "russia": "Russia",
-    "usa": "USA",
-    "uk": "United Kingdom",
-    "germany": "Germany",
-    "france": "France",
-    "spain": "Spain",
-    "italy": "Italy",
-    "china": "China",
-    "japan": "Japan",
-    "south_korea": "South Korea",
-    "ukraine": "Ukraine",
-    "georgia": "Georgia",
-    "iran": "Iran",
-    "india": "India",
-    "canada": "Canada",
-    "kazakhstan": "Kazakhstan",
-    "uzbekistan": "Uzbekistan",
-    "uae": "UAE"
   }
 }
