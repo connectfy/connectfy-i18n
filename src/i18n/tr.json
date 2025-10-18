@@ -208,7 +208,9 @@
       "verify": "Doğrula",
       "back": "Geri",
       "clear": "Temizle",
-      "today": "Bugün"
+      "today": "Bugün",
+      "submit": "Gönder",
+      "birthday": "Doğum tarihi"
     },
     "enum": {
       "male": "Erkek",

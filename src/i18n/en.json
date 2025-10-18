@@ -208,7 +208,9 @@
       "verify": "Verify",
       "back": "Back",
       "clear": "Clear",
-      "today": "Today"
+      "today": "Today",
+      "submit": "Submit",
+      "birthday": "Birthday"
     },
     "enum": {
       "male": "Male",

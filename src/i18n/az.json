@@ -208,7 +208,9 @@
       "verify": "Təsdiqlə",
       "back": "Geri",
       "clear": "Təmizlə",
-      "today": "Bu gün"
+      "today": "Bu gün",
+      "submit": "Təsdiqlə",
+      "birthday": "Doğum tarixi"
     },
     "enum": {
       "male": "Kişi",
