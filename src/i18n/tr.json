@@ -206,7 +206,9 @@
       "verify_account_message_part_1": "E-posta adresine 6 haneli doğrulama (OTP) kodu gönderdik:",
       "verify_account_message_part_2": "Lütfen aşağıya gir.",
       "verify": "Doğrula",
-      "back": "Geri"
+      "back": "Geri",
+      "clear": "Temizle",
+      "today": "Bugün"
     },
     "enum": {
       "male": "Erkek",
@@ -234,6 +236,43 @@
       "kazakhstan": "Kazakistan",
       "uzbekistan": "Özbekistan",
       "uae": "BAE"
+    },
+    "calendar": {
+      "days": {
+        "sun": "Paz",
+        "mon": "Pzt",
+        "tue": "Sal",
+        "wed": "Çar",
+        "thu": "Per",
+        "fri": "Cum",
+        "sat": "Cts"
+      },
+      "months": {
+        "jan": "Oca",
+        "feb": "Şub",
+        "mar": "Mar",
+        "apr": "Nis",
+        "may": "May",
+        "jun": "Haz",
+        "jul": "Tem",
+        "aug": "Ağu",
+        "sep": "Eyl",
+        "oct": "Eki",
+        "nov": "Kas",
+        "dec": "Ara",
+        "january": "Ocak",
+        "february": "Şubat",
+        "march": "Mart",
+        "april": "Nisan",
+        "may_full": "Mayıs",
+        "june": "Haziran",
+        "july": "Temmuz",
+        "august": "Ağustos",
+        "september": "Eylül",
+        "october": "Ekim",
+        "november": "Kasım",
+        "december": "Aralık"
+      }
     }
   }
 }

@@ -206,7 +206,9 @@
       "verify_account_message_part_1": "We sent a 6-digit verification code (OTP) to your email address:",
       "verify_account_message_part_2": "Please enter it below.",
       "verify": "Verify",
-      "back": "Back"
+      "back": "Back",
+      "clear": "Clear",
+      "today": "Today"
     },
     "enum": {
       "male": "Male",
@@ -234,6 +236,43 @@
       "kazakhstan": "Kazakhstan",
       "uzbekistan": "Uzbekistan",
       "uae": "UAE"
+    },
+    "calendar": {
+      "days": {
+        "sun": "Sun",
+        "mon": "Mon",
+        "tue": "Tue",
+        "wed": "Wed",
+        "thu": "Thu",
+        "fri": "Fri",
+        "sat": "Sat"
+      },
+      "months": {
+        "jan": "Jan",
+        "feb": "Feb",
+        "mar": "Mar",
+        "apr": "Apr",
+        "may": "May",
+        "jun": "Jun",
+        "jul": "Jul",
+        "aug": "Aug",
+        "sep": "Sep",
+        "oct": "Oct",
+        "nov": "Nov",
+        "dec": "Dec",
+        "january": "January",
+        "february": "February",
+        "march": "March",
+        "april": "April",
+        "may_full": "May",
+        "june": "June",
+        "july": "July",
+        "august": "August",
+        "september": "September",
+        "october": "October",
+        "november": "November",
+        "december": "December"
+      }
     }
   }
 }

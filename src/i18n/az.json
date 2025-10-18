@@ -206,7 +206,9 @@
       "verify_account_message_part_1": "6 rəqəmli təsdiq (OTP) kodu e-poçt ünvanına göndərdik:",
       "verify_account_message_part_2": "Zəhmət olmasa, onu aşağıda daxil et.",
       "verify": "Təsdiqlə",
-      "back": "Geri"
+      "back": "Geri",
+      "clear": "Təmizlə",
+      "today": "Bu gün"
     },
     "enum": {
       "male": "Kişi",
@@ -234,6 +236,43 @@
       "kazakhstan": "Qazaxıstan",
       "uzbekistan": "Özbəkistan",
       "uae": "BƏƏ"
+    },
+    "calendar": {
+      "days": {
+        "sun": "Bz",
+        "mon": "B.e",
+        "tue": "Ç.a",
+        "wed": "Çr",
+        "thu": "C.a",
+        "fri": "C",
+        "sat": "Ş"
+      },
+      "months": {
+        "jan": "Yan",
+        "feb": "Fev",
+        "mar": "Mar",
+        "apr": "Apr",
+        "may": "May",
+        "jun": "İyn",
+        "jul": "İyl",
+        "aug": "Avq",
+        "sep": "Sen",
+        "oct": "Okt",
+        "nov": "Noy",
+        "dec": "Dek",
+        "january": "Yanvar",
+        "february": "Fevral",
+        "march": "Mart",
+        "april": "Aprel",
+        "may_full": "May",
+        "june": "İyun",
+        "july": "İyul",
+        "august": "Avqust",
+        "september": "Sentyabr",
+        "october": "Oktyabr",
+        "november": "Noyabr",
+        "december": "Dekabr"
+      }
     }
   }
 }
