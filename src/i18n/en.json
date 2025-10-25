@@ -18,7 +18,10 @@
       "email": "{{field}} must be an email",
       "mismatch": "{{field}} can not contain spaces or special characters like {{characters}}",
       "password": "Password must be minimum 8 characters long, contain at least one uppercase letter, one lowercase letter, one number, and one special character",
-      "invalid_length": "{{field}} must be {{length}} characters"
+      "invalid_length": "{{field}} must be {{length}} characters",
+      "array_each": "{{field}} must not be empty or whitespace only",
+      "phone_code": "{{field}} must be in format +<country code>, e.g +994",
+      "full_phone": "{{field}} must be in format +<country code><number>, e.g +994123456789"
     },
     "exception_messages": {
       "internal_server_error_message": "An unexpected error occurred. Please try again later.",
@@ -35,7 +38,17 @@
       "already_exists_message": "{{field}} already exists",
       "invalid_credentials": "Invalid credential",
       "banned_message": "Your account has been banned to until {{bannedToDate}}",
-      "same_data": "{{field}} can not be same as old"
+      "same_data": "{{field}} can not be same as old",
+      "string_or_null": "{{field}} must be a string",
+      "number_or_null": "{{field}} must be a number",
+      "array_type": "{{field}} must be an array",
+      "array_min_one": "{{field}} must contain at least 1 item",
+      "object_type": "{{field}} must be an object",
+      "object_min_one_property": "{{field}} must contain at least 1 property",
+      "date_or_null": "{{field}} must be a valid date",
+      "boolean_type": "{{field}} must be a boolean",
+      "boolean_invalid": "{{field}} is not a valid boolean",
+      "enum_invalid": "{{field}} must be of the following values: {{validValues}}"
     },
     "fields": {
       "_id": "id",

@@ -18,7 +18,10 @@
       "email": "{{field}} geçerli bir e-posta olmalıdır",
       "mismatch": "{{field}} boşluk veya {{characters}} gibi özel karakterler içeremez",
       "password": "Şifre en az 8 karakter uzunluğunda olmalı, en az bir büyük harf, bir küçük harf, bir rakam ve bir özel karakter içermelidir",
-      "invalid_length": "{{field}} {{length}} karakter uzunluğunda olmalıdır"
+      "invalid_length": "{{field}} {{length}} karakter uzunluğunda olmalıdır",
+      "array_each": "{{field}} boş veya yalnızca boşluklardan oluşamaz",
+      "phone_code": "{{field}} formatı +<ülke kodu> olmalıdır, örn +994",
+      "full_phone": "{{field}} formatı +<ülke kodu><numara> olmalıdır, örn +994123456789"
     },
     "exception_messages": {
       "internal_server_error_message": "Beklenmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
@@ -35,7 +38,17 @@
       "already_exists_message": "{{field}} zaten mevcut",
       "invalid_credentials": "Geçersiz kimlik bilgisi",
       "banned_message": "Hesabınız {{bannedToDate}} tarihine kadar yasaklanmıştır",
-      "same_data": "{{field}} eskiyle aynı olamaz"
+      "same_data": "{{field}} eskiyle aynı olamaz",
+      "string_or_null": "{{field}} bir metin (string) olmalıdır",
+      "number_or_null": "{{field}} bir sayı (number) olmalıdır",
+      "array_type": "{{field}} bir dizi (array) olmalıdır",
+      "array_min_one": "{{field}} en az 1 öğe içermelidir",
+      "object_type": "{{field}} bir nesne olmalıdır",
+      "object_min_one_property": "{{field}} en az 1 özellik (property) içermelidir",
+      "date_or_null": "{{field}} geçerli bir tarih olmalıdır",
+      "boolean_type": "{{field}} bir boolean türünde olmalıdır",
+      "boolean_invalid": "{{field}} geçerli bir boolean değeri değildir",
+      "enum_invalid": "{{field}} aşağıdaki değerlerden biri olmalıdır: {{validValues}}"
     },
     "fields": {
       "_id": "id",

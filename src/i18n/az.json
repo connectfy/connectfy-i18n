@@ -18,7 +18,10 @@
       "email": "{{field}} email formatında olmalıdır",
       "mismatch": "{{field}} boşluq və ya {{characters}} kimi xüsusi simvollar ehtiva edə bilməz",
       "password": "Şifrə ən az 8 simvol uzunluğunda olmalı, ən az bir böyük hərf, bir kiçik hərf, bir rəqəm və bir xüsusi simvol daxil etməlidir",
-      "invalid_length": "{{field}} {{length}} simvol uzunluğunda olmalıdır"
+      "invalid_length": "{{field}} {{length}} simvol uzunluğunda olmalıdır",
+      "array_each": "{{field}} boş və ya yalnız boşluqlardan ibarət ola bilməz",
+      "phone_code": "{{field}} formatı +<ölkə kodu> olmalıdır, məsələn +994",
+      "full_phone": "{{field}} formatı +<ölkə kodu><nömrə> olmalıdır, məsələn +994123456789"
     },
     "exception_messages": {
       "internal_server_error_message": "Gözlənilməz xəta baş verdi. Zəhmət olmasa bir az sonra yenidən cəhd edin.",
@@ -35,7 +38,17 @@
       "already_exists_message": "{{field}} artıq mövcuddur",
       "invalid_credentials": "Etibarsız giriş məlumatı",
       "banned_message": "Hesabınız {{bannedToDate}} tarixinədək bloklanıb",
-      "same_data": "{{field}} əvvəlki ilə eyni ola bilməz"
+      "same_data": "{{field}} əvvəlki ilə eyni ola bilməz",
+      "string_or_null": "{{field}} mətn (string) olmalıdır",
+      "number_or_null": "{{field}} rəqəm (number) olmalıdır",
+      "array_type": "{{field}} massiv (array) olmalıdır",
+      "array_min_one": "{{field}} ən azı 1 element olmalıdır",
+      "object_type": "{{field}} obyekt olmalıdır",
+      "object_min_one_property": "{{field}} ən azı 1 xassəyə (property) malik olmalıdır",
+      "date_or_null": "{{field}} etibarlı tarix olmalıdır",
+      "boolean_type": "{{field}} boolean (doğru/yalnış) tipində olmalıdır",
+      "boolean_invalid": "{{field}} etibarlı boolean dəyəri deyil",
+      "enum_invalid": "{{field}} aşağıdakı dəyərlərdən biri olmalıdır: {{validValues}}"
     },
     "fields": {
       "_id": "id",
@@ -105,7 +118,7 @@
         "ignore": "Əgər bu kodu tələb etməmisinizsə, bu e-poçtu nəzərə almaya bilərsiniz.",
         "support": "Sualınız varsa və ya köməyə ehtiyacınız olarsa, dəstək komandamızla əlaqə saxlaya bilərsiniz:",
         "signature": "Hörmətlə,",
-        "team": "Connectfy komandası"
+        "team": "Connectfy Komandası"
       },
       "forgot_password": {
         "mail_subject": "Şifrəni sıfırlama",
@@ -116,7 +129,7 @@
         "expiry": "Bu bağlantı <strong>1 saat</strong> ərzində etibarlıdır. Əgər bu sorğunu siz etməmisinizsə, bu e-poçtu nəzərə almaya bilərsiniz.",
         "support": "Sualınız varsa və ya köməyə ehtiyacınız olarsa, dəstək komandamızla əlaqə saxlaya bilərsiniz:",
         "thank_you": "Təşəkkürlər,",
-        "team": "Connectfy komandası"
+        "team": "Connectfy Komandası"
       },
       "email_not_found": {
         "mail_subject": "Şifrə sıfırlama - Hesab tapılmadı",
@@ -126,7 +139,7 @@
         "button": "İndi qeydiyyatdan keçin",
         "support": "Sualınız varsa və ya köməyə ehtiyacınız olarsa, dəstək komandamızla əlaqə saxlaya bilərsiniz:",
         "thank_you": "Təşəkkürlər,",
-        "team": "Connectfy komandası"
+        "team": "Connectfy Komandası"
       },
       "google_sign_in": {
         "mail_subject": "Şifrə sıfırlama - Google ilə giriş aşkarlandı",
@@ -137,7 +150,7 @@
         "ignore": "Əgər şifrə sıfırlama cəhdində olmadınızsa və bunun səhv olduğunu düşünürsünüzsə, bu e-poçtu nəzərə almaya bilərsiniz.",
         "support": "Sualınız varsa və ya köməyə ehtiyacınız olarsa, dəstək komandamızla əlaqə saxlaya bilərsiniz:",
         "thank_you": "Təşəkkürlər,",
-        "team": "Connectfy komandası"
+        "team": "Connectfy Komandası"
       },
       "delete_account": {
         "mail_subject": "Hesabın silinməsi",
@@ -148,7 +161,7 @@
         "expiry": "Bu bağlantı <strong>1 saat</strong> ərzində etibarlıdır. Əgər bu sorğunu siz etməmisinizsə, bu e-poçtu nəzərə almaya bilərsiniz.",
         "support": "Sualınız varsa və ya köməyə ehtiyacınız olarsa, dəstək komandamızla əlaqə saxlaya bilərsiniz:",
         "thank_you": "Təşəkkürlər,",
-        "team": "Connectfy komandası"
+        "team": "Connectfy Komandası"
       },
       "delete_account_completed": {
         "mail_subject": "Hesab silinməsi tamamlandı",
@@ -160,7 +173,7 @@
         "note": "Qeyd: 30 gündən sonra hesabınız və ona bağlı bütün məlumatlar daimi olaraq silinəcək və bərpa edilə bilməyəcək.",
         "support": "Əgər bu silinməni siz tələb etməmisinizsə və ya köməkə ehtiyacınız varsa, zəhmət olmasa dəstək komandamızla əlaqə saxlayın:",
         "signature": "Hörmətlə,",
-        "team": "Connectfy komandası"
+        "team": "Connectfy Komandası"
       },
       "verify_yourself": {
         "subject": "Qeydiyyatınızı təsdiqləyin",
@@ -169,7 +182,7 @@
         "instruction": "Zəhmət olmasa, özünüzü təsdiqləmək üçün bu kodu təsdiq pəncərəsində daxil edin.",
         "support": "Sualınız varsa və ya köməyə ehtiyacınız olarsa, dəstək komandamızla əlaqə saxlaya bilərsiniz:",
         "signature": "Hörmətlə,",
-        "team": "Connectfy komandası"
+        "team": "Connectfy Komandası"
       }
     },
     "common": {
