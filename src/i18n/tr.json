@@ -196,7 +196,8 @@
       "verify_successful": "Doğrulama başarıyla tamamlandı.",
       "forgot_password_successful": "Şifre sıfırlama isteği gönderildi.",
       "login_successful": "Giriş başarılı.",
-      "signup_successful": "Kayıt başarıyla tamamlandı."
+      "signup_successful": "Kayıt başarıyla tamamlandı.",
+      "password_generated_message": "Yeni parolanız oluşturuldu ve panoya kopyalandı. Biz parolayı hiçbir yerde saklamadık, bu yüzden lütfen güvenli bir yerde (örneğin parola yöneticisinde veya güvenli bir notta) saklayın."
     },
     "common": {
       "login": "Giriş yap",

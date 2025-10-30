@@ -196,7 +196,8 @@
       "verify_successful": "Verification completed successfully.",
       "forgot_password_successful": "Password reset request has been sent.",
       "login_successful": "Login successful.",
-      "signup_successful": "Signup completed successfully."
+      "signup_successful": "Signup completed successfully.",
+      "password_generated_message": "Your new password has been created and copied to your clipboard. We haven’t saved it anywhere, so make sure to store it safely — for example, in a password manager or a secure note."
     },
     "common": {
       "login": "Login",
