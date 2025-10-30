@@ -185,6 +185,19 @@
         "team": "Connectfy Komandası"
       }
     },
+    "error_messages": {
+      "invalid_phone_number_length": "Telefon nömrəsinin uzunluğu düzgün deyil.",
+      "invalid_username": "İstifadəçi adı düzgün deyil.",
+      "invalid_email": "E-poçt ünvanı düzgün deyil.",
+      "password_rule": "Şifrə ən azı 1 kiçik, 1 böyük hərf, 1 rəqəm, 1 xüsusi simvol və minimum 8 simvoldan ibarət olmalıdır.",
+      "password_mismatch": "Şifrələr uyğun gəlmir."
+    },
+    "user_messages": {
+      "verify_successful": "Təsdiqləmə uğurla tamamlandı.",
+      "forgot_password_successful": "Şifrəni yeniləmə sorğusu göndərildi.",
+      "login_successful": "Giriş uğurla həyata keçirildi.",
+      "signup_successful": "Qeydiyyat uğurla tamamlandı."
+    },
     "common": {
       "login": "Daxil ol",
       "signup": "Qeydiyyat",
@@ -223,7 +236,10 @@
       "clear": "Təmizlə",
       "today": "Bu gün",
       "submit": "Təsdiqlə",
-      "birthday": "Doğum tarixi"
+      "birthday": "Doğum tarixi",
+      "cancel": "Ləğv et",
+      "complete_signup": "Qeydiyyatı tamamla",
+      "google_signup_description": "Google hesabınızla tez bir zamanda qeydiyyatdan keçin."
     },
     "enum": {
       "male": "Kişi",

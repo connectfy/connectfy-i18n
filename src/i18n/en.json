@@ -185,6 +185,19 @@
         "team": "Connectfy Team"
       }
     },
+    "error_messages": {
+      "invalid_phone_number_length": "Phone number length is invalid.",
+      "invalid_username": "Username is invalid.",
+      "invalid_email": "Email address is invalid.",
+      "password_rule": "Password must contain at least one lowercase letter, one uppercase letter, one number, one special character, and be at least 8 characters long.",
+      "password_mismatch": "Passwords do not match."
+    },
+    "user_messages": {
+      "verify_successful": "Verification completed successfully.",
+      "forgot_password_successful": "Password reset request has been sent.",
+      "login_successful": "Login successful.",
+      "signup_successful": "Signup completed successfully."
+    },
     "common": {
       "login": "Login",
       "signup": "Signup",
@@ -223,7 +236,10 @@
       "clear": "Clear",
       "today": "Today",
       "submit": "Submit",
-      "birthday": "Birthday"
+      "birthday": "Birthday",
+      "cancel": "Cancel",
+      "complete_signup": "Complete Signup",
+      "google_signup_description": "Sign up quickly using your Google account."
     },
     "enum": {
       "male": "Male",

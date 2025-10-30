@@ -185,6 +185,19 @@
         "team": "Connectfy Ekibi"
       }
     },
+    "error_messages": {
+      "invalid_phone_number_length": "Geçersiz telefon numarası uzunluğu.",
+      "invalid_username": "Geçersiz kullanıcı adı.",
+      "invalid_email": "Geçersiz e-posta adresi.",
+      "password_rule": "Şifre en az bir küçük harf, bir büyük harf, bir sayı, bir özel karakter içermeli ve en az 8 karakter uzunluğunda olmalıdır.",
+      "password_mismatch": "Şifreler eşleşmiyor."
+    },
+    "user_messages": {
+      "verify_successful": "Doğrulama başarıyla tamamlandı.",
+      "forgot_password_successful": "Şifre sıfırlama isteği gönderildi.",
+      "login_successful": "Giriş başarılı.",
+      "signup_successful": "Kayıt başarıyla tamamlandı."
+    },
     "common": {
       "login": "Giriş yap",
       "signup": "Kayıt ol",
@@ -223,7 +236,10 @@
       "clear": "Temizle",
       "today": "Bugün",
       "submit": "Gönder",
-      "birthday": "Doğum tarihi"
+      "birthday": "Doğum tarihi",
+      "cancel": "İptal et",
+      "complete_signup": "Kaydı tamamla",
+      "google_signup_description": "Google hesabınızla hızlıca kayıt olun."
     },
     "enum": {
       "male": "Erkek",
