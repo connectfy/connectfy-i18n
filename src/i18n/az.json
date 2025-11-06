@@ -133,15 +133,15 @@
       "invalid_username": "İstifadəçi adı düzgün deyil.",
       "invalid_email": "E-poçt ünvanı düzgün deyil.",
       "password_rule": "Şifrə ən azı 1 kiçik, 1 böyük hərf, 1 rəqəm, 1 xüsusi simvol və minimum 8 simvoldan ibarət olmalıdır.",
-      "password_mismatch": "Şifrələr uyğun gəlmir."
+      "password_mismatch": "Şifrələr uyğun gəlmir.",
+      "try_again": "Yenidən cəhd et",
+      "permission_dismissed": "İcazə tələbi rədd edildi"
     },
     "user_messages": {
       "verify_successful": "Təsdiqləmə uğurla tamamlandı.",
       "forgot_password_successful": "Şifrəni yeniləmə sorğusu göndərildi.",
       "login_successful": "Giriş uğurla həyata keçirildi.",
-      "signup_successful": "Qeydiyyat uğurla tamamlandı.",
-      "try_again": "Yenidən cəhd et",
-      "permission_dismissed": "İcazə tələbi rədd edildi"
+      "signup_successful": "Qeydiyyat uğurla tamamlandı."
     },
     "common": {
       "login": "Daxil ol",
@@ -189,7 +189,9 @@
       "find_account_with_phone_number": "Telefon nömrəsi ilə hesabı tap",
       "face_id_subtitle": "Zəhmət olmasa, kamera üzünüzü tanıyıb təsdiqləyənə qədər gözləyin, sonra {{field}} düyməsinə klikləyin.",
       "add_face_id": "Üz tanıma əlavə et",
-      "register": "Qeydiyyatdan keç"
+      "register": "Qeydiyyatdan keç",
+      "forgot_password_title": "Şifrəni unutmusunuz?",
+      "forgot_password_subtitle": "Hesabınızı tapmaq üçün identifikator seçin. Qeydiyyatdan keçmiş e-poçt ünvanınıza təhlükəsiz şifrə bərpa bağlantısı göndərəcəyik."
     },
     "enum": {
       "male": "Kişi",

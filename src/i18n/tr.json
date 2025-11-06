@@ -132,16 +132,16 @@
       "invalid_username": "Geçersiz kullanıcı adı.",
       "invalid_email": "Geçersiz e-posta adresi.",
       "password_rule": "Şifre en az bir küçük harf, bir büyük harf, bir sayı, bir özel karakter içermeli ve en az 8 karakter uzunluğunda olmalıdır.",
-      "password_mismatch": "Şifreler eşleşmiyor."
+      "password_mismatch": "Şifreler eşleşmiyor.",
+      "try_again": "Tekrar dene",
+      "permission_dismissed": "İzin isteği reddedildi"
     },
     "user_messages": {
       "verify_successful": "Doğrulama başarıyla tamamlandı.",
       "forgot_password_successful": "Şifre sıfırlama isteği gönderildi.",
       "login_successful": "Giriş başarılı.",
       "signup_successful": "Kayıt başarıyla tamamlandı.",
-      "password_generated_message": "Yeni parolanız oluşturuldu ve panoya kopyalandı. Biz parolayı hiçbir yerde saklamadık, bu yüzden lütfen güvenli bir yerde (örneğin parola yöneticisinde veya güvenli bir notta) saklayın.",
-      "try_again": "Tekrar dene",
-      "permission_dismissed": "İzin isteği reddedildi"
+      "password_generated_message": "Yeni parolanız oluşturuldu ve panoya kopyalandı. Biz parolayı hiçbir yerde saklamadık, bu yüzden lütfen güvenli bir yerde (örneğin parola yöneticisinde veya güvenli bir notta) saklayın."
     },
     "common": {
       "login": "Giriş yap",
@@ -189,7 +189,9 @@
       "find_account_with_phone_number": "Telefon numarasıyla hesabı bul",
       "face_id_subtitle": "Lütfen kamera yüzünüzü tarayıp doğrulayana kadar bekleyin, ardından {{field}} düğmesine tıklayın.",
       "add_face_id": "Yüz tanıma ekle",
-      "register": "Kayıt ol"
+      "register": "Kayıt ol",
+      "forgot_password_title": "Şifrenizi mi unuttunuz?",
+      "forgot_password_subtitle": "Hesabınızı bulmak için bir tanımlayıcı seçin. Kayıtlı e-posta adresinize güvenli bir parola sıfırlama bağlantısı göndereceğiz."
     },
     "enum": {
       "male": "Erkek",

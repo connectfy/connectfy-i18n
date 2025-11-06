@@ -132,15 +132,16 @@
       "invalid_username": "Username is invalid.",
       "invalid_email": "Email address is invalid.",
       "password_rule": "Password must contain at least one lowercase letter, one uppercase letter, one number, one special character, and be at least 8 characters long.",
-      "password_mismatch": "Passwords do not match."
+      "password_mismatch": "Passwords do not match.",
+      "try_again": "Try again",
+      "permission_dismissed": "Permission request was dismissed"
     },
     "user_messages": {
       "verify_successful": "Verification completed successfully.",
       "forgot_password_successful": "Password reset request has been sent.",
       "login_successful": "Login successful.",
       "signup_successful": "Signup completed successfully.",
-      "password_generated_message": "Your new password has been created and copied to your clipboard. We haven’t saved it anywhere, so make sure to store it safely — for example, in a password manager or a secure note.",
-      "permission_dismissed": "Permission request was dismissed"
+      "password_generated_message": "Your new password has been created and copied to your clipboard. We haven’t saved it anywhere, so make sure to store it safely — for example, in a password manager or a secure note."
     },
     "common": {
       "login": "Login",
@@ -186,10 +187,11 @@
       "google_signup_description": "Sign up quickly using your Google account.",
       "find_account_with_email": "Find account with email",
       "find_account_with_phone_number": "Find account with phone number",
-      "try_again": "Try again",
       "face_id_subtitle": "Please wait while the camera scans and verifies your face, then click the {{field}} button.",
       "add_face_id": "Add Face ID",
-      "register": "Register"
+      "register": "Register",
+      "forgot_password_title": "Forgot Password?",
+      "forgot_password_subtitle": "Select an identifier to find your account. We'll send a secure password-reset link to the account's registered email address."
     },
     "enum": {
       "male": "Male",
