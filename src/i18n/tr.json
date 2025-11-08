@@ -24,15 +24,15 @@
       "full_phone": "{{field}} formatı +<ülke kodu><numara> olmalıdır, örn +994123456789"
     },
     "exception_messages": {
-      "internal_server_error_message": "Beklenmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
-      "bad_request_message": "İstek anlaşılamadı veya gerekli parametreler eksik.",
-      "unauthorized_message": "Kimlik doğrulama başarısız veya bu işlem için yetkiniz yok.",
-      "forbidden_message": "Kimlik doğrulama başarılı ancak bu kaynağa erişim izniniz yok.",
-      "not_found_message": "İstenen kaynak bulunamadı.",
-      "conflict_message": "İstek mevcut durumla çeliştiği için tamamlanamadı.",
-      "unprocessable_entity_message": "İstek doğru biçimde ancak anlamsal hatalar içeriyor.",
-      "gone_message": "İstenen kaynak artık sunucuda mevcut değil ve yönlendirme adresi bilinmiyor.",
-      "too_many_requests_message": "Kısa sürede çok fazla istek gönderildi (hız sınırı aşıldı).",
+      "internal_server_error_message": "Beklenmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyin",
+      "bad_request_message": "İstek anlaşılamadı veya gerekli parametreler eksik",
+      "unauthorized_message": "Kimlik doğrulama başarısız veya bu işlem için yetkiniz yok",
+      "forbidden_message": "Kimlik doğrulama başarılı ancak bu kaynağa erişim izniniz yok",
+      "not_found_message": "İstenen kaynak bulunamadı",
+      "conflict_message": "İstek mevcut durumla çeliştiği için tamamlanamadı",
+      "unprocessable_entity_message": "İstek doğru biçimde ancak anlamsal hatalar içeriyor",
+      "gone_message": "İstenen kaynak artık sunucuda mevcut değil ve yönlendirme adresi bilinmiyor",
+      "too_many_requests_message": "Kısa sürede çok fazla istek gönderildi (hız sınırı aşıldı)",
       "access_token_expired": "Erişim belirteci süresi dolmuş",
       "token_expired": "Belirteç bulunamadı veya süresi dolmuş",
       "already_exists_message": "{{field}} zaten mevcut",
@@ -128,20 +128,22 @@
       }
     },
     "error_messages": {
-      "invalid_phone_number_length": "Geçersiz telefon numarası uzunluğu.",
-      "invalid_username": "Geçersiz kullanıcı adı.",
-      "invalid_email": "Geçersiz e-posta adresi.",
-      "password_rule": "Şifre en az bir küçük harf, bir büyük harf, bir sayı, bir özel karakter içermeli ve en az 8 karakter uzunluğunda olmalıdır.",
-      "password_mismatch": "Şifreler eşleşmiyor.",
+      "invalid_phone_number_length": "Geçersiz telefon numarası uzunluğu",
+      "invalid_username": "Geçersiz kullanıcı adı",
+      "invalid_email": "Geçersiz e-posta adresi",
+      "password_rule": "Şifre en az bir küçük harf, bir büyük harf, bir sayı, bir özel karakter içermeli ve en az 8 karakter uzunluğunda olmalıdır",
+      "password_mismatch": "Şifreler eşleşmiyor",
       "try_again": "Tekrar dene",
-      "permission_dismissed": "İzin isteği reddedildi"
+      "permission_dismissed": "İzin isteği reddedildi",
+      "process_failed": "Bir şeyler ters gitti. Lütfen daha sonra tekrar deneyin"
     },
     "user_messages": {
-      "verify_successful": "Doğrulama başarıyla tamamlandı.",
-      "forgot_password_successful": "Şifre sıfırlama isteği gönderildi.",
-      "login_successful": "Giriş başarılı.",
-      "signup_successful": "Kayıt başarıyla tamamlandı.",
-      "password_generated_message": "Yeni parolanız oluşturuldu ve panoya kopyalandı. Biz parolayı hiçbir yerde saklamadık, bu yüzden lütfen güvenli bir yerde (örneğin parola yöneticisinde veya güvenli bir notta) saklayın."
+      "verify_successful": "Doğrulama başarıyla tamamlandı",
+      "forgot_password_successful": "Şifre sıfırlama isteği gönderildi",
+      "login_successful": "Giriş başarılı",
+      "signup_successful": "Kayıt başarıyla tamamlandı",
+      "password_generated_message": "Yeni parolanız oluşturuldu ve panoya kopyalandı. Biz parolayı hiçbir yerde saklamadık, bu yüzden lütfen güvenli bir yerde (örneğin parola yöneticisinde veya güvenli bir notta) saklayın",
+      "reset_password_successfull": "Şifreniz başarıyla sıfırlandı"
     },
     "common": {
       "login": "Giriş yap",

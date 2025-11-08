@@ -24,15 +24,15 @@
       "full_phone": "{{field}} formatı +<ölkə kodu><nömrə> olmalıdır, məsələn +994123456789"
     },
     "exception_messages": {
-      "internal_server_error_message": "Gözlənilməz xəta baş verdi. Zəhmət olmasa bir az sonra yenidən cəhd edin.",
-      "bad_request_message": "Sorğu başa düşülmədi və ya vacib parametrlər çatışmır.",
-      "unauthorized_message": "Təsdiqləmə uğursuz oldu və ya istifadəçinin bu əməliyyatı yerinə yetirmək icazəsi yoxdur.",
-      "forbidden_message": "Təsdiqləmə uğurlu oldu, lakin istifadəçiyə bu resursa giriş icazəsi yoxdur.",
-      "not_found_message": "Tələb olunan resurs tapılmadı.",
-      "conflict_message": "Sorğunu yerinə yetirmək mümkün deyil, çünki resurs artıq mövcuddur və ya ziddiyyət var.",
-      "unprocessable_entity_message": "Sorğu düzgün formatdadır, lakin məna baxımından xətalıdır.",
-      "gone_message": "Bu resurs serverdə artıq mövcud deyil və yönləndirmə ünvanı da yoxdur.",
-      "too_many_requests_message": "Qısa zamanda çox sayda sorğu göndərildi (sürət limiti).",
+      "internal_server_error_message": "Gözlənilməz xəta baş verdi. Zəhmət olmasa bir az sonra yenidən cəhd edin",
+      "bad_request_message": "Sorğu başa düşülmədi və ya vacib parametrlər çatışmır",
+      "unauthorized_message": "Təsdiqləmə uğursuz oldu və ya istifadəçinin bu əməliyyatı yerinə yetirmək icazəsi yoxdur",
+      "forbidden_message": "Təsdiqləmə uğurlu oldu, lakin istifadəçiyə bu resursa giriş icazəsi yoxdur",
+      "not_found_message": "Tələb olunan resurs tapılmadı",
+      "conflict_message": "Sorğunu yerinə yetirmək mümkün deyil, çünki resurs artıq mövcuddur və ya ziddiyyət var",
+      "unprocessable_entity_message": "Sorğu düzgün formatdadır, lakin məna baxımından xətalıdır",
+      "gone_message": "Bu resurs serverdə artıq mövcud deyil və yönləndirmə ünvanı da yoxdur",
+      "too_many_requests_message": "Qısa zamanda çox sayda sorğu göndərildi (sürət limiti)",
       "access_token_expired": "Giriş tokeni vaxtı keçmişdir",
       "token_expired": "Token tapılmadı və ya müddəti bitmişdir",
       "already_exists_message": "{{field}} artıq mövcuddur",
@@ -129,19 +129,21 @@
       }
     },
     "error_messages": {
-      "invalid_phone_number_length": "Telefon nömrəsinin uzunluğu düzgün deyil.",
-      "invalid_username": "İstifadəçi adı düzgün deyil.",
-      "invalid_email": "E-poçt ünvanı düzgün deyil.",
-      "password_rule": "Şifrə ən azı 1 kiçik, 1 böyük hərf, 1 rəqəm, 1 xüsusi simvol və minimum 8 simvoldan ibarət olmalıdır.",
-      "password_mismatch": "Şifrələr uyğun gəlmir.",
+      "invalid_phone_number_length": "Telefon nömrəsinin uzunluğu düzgün deyil",
+      "invalid_username": "İstifadəçi adı düzgün deyil",
+      "invalid_email": "E-poçt ünvanı düzgün deyil",
+      "password_rule": "Şifrə ən azı 1 kiçik, 1 böyük hərf, 1 rəqəm, 1 xüsusi simvol və minimum 8 simvoldan ibarət olmalıdır",
+      "password_mismatch": "Şifrələr uyğun gəlmir",
       "try_again": "Yenidən cəhd et",
-      "permission_dismissed": "İcazə tələbi rədd edildi"
+      "permission_dismissed": "İcazə tələbi rədd edildi",
+      "process_failed": "Nəsə səhv oldu. Zəhmət olmasa bir qədər sonra yenidən cəhd edin"
     },
     "user_messages": {
-      "verify_successful": "Təsdiqləmə uğurla tamamlandı.",
-      "forgot_password_successful": "Şifrəni yeniləmə sorğusu göndərildi.",
-      "login_successful": "Giriş uğurla həyata keçirildi.",
-      "signup_successful": "Qeydiyyat uğurla tamamlandı."
+      "verify_successful": "Təsdiqləmə uğurla tamamlandı",
+      "forgot_password_successful": "Şifrəni yeniləmə sorğusu göndərildi",
+      "login_successful": "Giriş uğurla həyata keçirildi",
+      "signup_successful": "Qeydiyyat uğurla tamamlandı",
+      "reset_password_successfull": "Şifrəniz uğurla sıfırlandı"
     },
     "common": {
       "login": "Daxil ol",

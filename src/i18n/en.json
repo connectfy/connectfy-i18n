@@ -24,15 +24,15 @@
       "full_phone": "{{field}} must be in format +<country code><number>, e.g +994123456789"
     },
     "exception_messages": {
-      "internal_server_error_message": "An unexpected error occurred. Please try again later.",
-      "bad_request_message": "The request could not be understood or was missing required parameters.",
-      "unauthorized_message": "Authentication failed or user does not have permissions for the requested operation.",
-      "forbidden_message": "Authentication succeeded but authenticated user does not have access to the requested resource.",
-      "not_found_message": "The requested resource could not be found.",
-      "conflict_message": "The request could not be completed due to a conflict with the current state of the resource.",
-      "unprocessable_entity_message": "The request was well-formed but was unable to be followed due to semantic errors.",
-      "gone_message": "The requested resource is no longer available at the server and no forwarding address is known.",
-      "too_many_requests_message": "The user has sent too many requests in a given amount of time (\"rate limiting\").",
+      "internal_server_error_message": "An unexpected error occurred. Please try again later",
+      "bad_request_message": "The request could not be understood or was missing required parameters",
+      "unauthorized_message": "Authentication failed or user does not have permissions for the requested operation",
+      "forbidden_message": "Authentication succeeded but authenticated user does not have access to the requested resource",
+      "not_found_message": "The requested resource could not be found",
+      "conflict_message": "The request could not be completed due to a conflict with the current state of the resource",
+      "unprocessable_entity_message": "The request was well-formed but was unable to be followed due to semantic errors",
+      "gone_message": "The requested resource is no longer available at the server and no forwarding address is known",
+      "too_many_requests_message": "The user has sent too many requests in a given amount of time (\"rate limiting\")",
       "access_token_expired": "Access token expired",
       "token_expired": "Token not found or expired",
       "already_exists_message": "{{field}} already exists",
@@ -128,20 +128,22 @@
       }
     },
     "error_messages": {
-      "invalid_phone_number_length": "Phone number length is invalid.",
-      "invalid_username": "Username is invalid.",
-      "invalid_email": "Email address is invalid.",
-      "password_rule": "Password must contain at least one lowercase letter, one uppercase letter, one number, one special character, and be at least 8 characters long.",
-      "password_mismatch": "Passwords do not match.",
+      "invalid_phone_number_length": "Phone number length is invalid",
+      "invalid_username": "Username is invalid",
+      "invalid_email": "Email address is invalid",
+      "password_rule": "Password must contain at least one lowercase letter, one uppercase letter, one number, one special character, and be at least 8 characters long",
+      "password_mismatch": "Passwords do not match",
       "try_again": "Try again",
-      "permission_dismissed": "Permission request was dismissed"
+      "permission_dismissed": "Permission request was dismissed",
+      "process_failed": "Something went wrong. Please try again later"
     },
     "user_messages": {
-      "verify_successful": "Verification completed successfully.",
-      "forgot_password_successful": "Password reset request has been sent.",
-      "login_successful": "Login successful.",
-      "signup_successful": "Signup completed successfully.",
-      "password_generated_message": "Your new password has been created and copied to your clipboard. We haven’t saved it anywhere, so make sure to store it safely — for example, in a password manager or a secure note."
+      "verify_successful": "Verification completed successfully",
+      "forgot_password_successful": "Password reset request has been sent",
+      "login_successful": "Login successful",
+      "signup_successful": "Signup completed successfully",
+      "password_generated_message": "Your new password has been created and copied to your clipboard. We haven’t saved it anywhere, so make sure to store it safely — for example, in a password manager or a secure note",
+      "reset_password_successfull": "Your password has been successfully reset"
     },
     "common": {
       "login": "Login",
