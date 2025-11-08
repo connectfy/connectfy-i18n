@@ -193,7 +193,8 @@
       "add_face_id": "Add Face ID",
       "register": "Register",
       "forgot_password_title": "Forgot Password?",
-      "forgot_password_subtitle": "Select an identifier to find your account. We'll send a secure password-reset link to the account's registered email address."
+      "forgot_password_subtitle": "Select an identifier to find your account. We'll send a secure password-reset link to the account's registered email address.",
+      "reset_password_title": "Set a new password"
     },
     "enum": {
       "male": "Male",

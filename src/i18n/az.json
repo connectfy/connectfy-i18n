@@ -193,7 +193,8 @@
       "add_face_id": "Üz tanıma əlavə et",
       "register": "Qeydiyyatdan keç",
       "forgot_password_title": "Şifrəni unutmusunuz?",
-      "forgot_password_subtitle": "Hesabınızı tapmaq üçün identifikator seçin. Qeydiyyatdan keçmiş e-poçt ünvanınıza təhlükəsiz şifrə bərpa bağlantısı göndərəcəyik."
+      "forgot_password_subtitle": "Hesabınızı tapmaq üçün identifikator seçin. Qeydiyyatdan keçmiş e-poçt ünvanınıza təhlükəsiz şifrə bərpa bağlantısı göndərəcəyik.",
+      "reset_password_title": "Yeni şifrə təyin edin"
     },
     "enum": {
       "male": "Kişi",
