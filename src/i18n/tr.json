@@ -143,8 +143,7 @@
       "login_successful": "Giriş başarılı",
       "signup_successful": "Kayıt başarıyla tamamlandı",
       "password_generated_message": "Yeni parolanız oluşturuldu ve panoya kopyalandı. Biz parolayı hiçbir yerde saklamadık, bu yüzden lütfen güvenli bir yerde (örneğin parola yöneticisinde veya güvenli bir notta) saklayın",
-      "reset_password_successfull": "Şifreniz başarıyla sıfırlandı",
-      "reset_password_title": "Yeni şifre belirleyin"
+      "reset_password_successfull": "Şifreniz başarıyla sıfırlandı"
     },
     "common": {
       "login": "Giriş yap",
@@ -194,7 +193,8 @@
       "add_face_id": "Yüz tanıma ekle",
       "register": "Kayıt ol",
       "forgot_password_title": "Şifrenizi mi unuttunuz?",
-      "forgot_password_subtitle": "Hesabınızı bulmak için bir tanımlayıcı seçin. Kayıtlı e-posta adresinize güvenli bir parola sıfırlama bağlantısı göndereceğiz."
+      "forgot_password_subtitle": "Hesabınızı bulmak için bir tanımlayıcı seçin. Kayıtlı e-posta adresinize güvenli bir parola sıfırlama bağlantısı göndereceğiz.",
+      "reset_password_title": "Yeni şifre belirleyin"
     },
     "enum": {
       "male": "Erkek",

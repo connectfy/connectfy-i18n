@@ -60,8 +60,7 @@
         "ignore": "Əgər bu kodu tələb etməmisinizsə, bu e-poçtu nəzərə almaya bilərsiniz.",
         "support": "Sualınız varsa və ya köməyə ehtiyacınız olarsa, dəstək komandamızla əlaqə saxlaya bilərsiniz:",
         "signature": "Hörmətlə,",
-        "team": "Connectfy Komandası",
-        "password_generated_message": "Yeni şifrəniz yaradılıb və clipboard-a kopyalanıb. Biz onu heç yerdə saxlamamışıq, ona görə xahiş olunur, etibarlı bir yerdə (məsələn, şifrə menecerində və ya qorunan qeyddə) saxlayın."
+        "team": "Connectfy Komandası"
       },
       "forgot_password": {
         "mail_subject": "Şifrəni sıfırlama",
@@ -143,6 +142,7 @@
       "forgot_password_successful": "Şifrəni yeniləmə sorğusu göndərildi",
       "login_successful": "Giriş uğurla həyata keçirildi",
       "signup_successful": "Qeydiyyat uğurla tamamlandı",
+      "password_generated_message": "Yeni şifrəniz yaradılıb və clipboard-a kopyalanıb. Biz onu heç yerdə saxlamamışıq, ona görə xahiş olunur, etibarlı bir yerdə (məsələn, şifrə menecerində və ya qorunan qeyddə) saxlayın.",
       "reset_password_successfull": "Şifrəniz uğurla sıfırlandı"
     },
     "common": {
