@@ -195,7 +195,14 @@
       "forgot_password_title": "Şifrenizi mi unuttunuz?",
       "forgot_password_subtitle": "Hesabınızı bulmak için bir tanımlayıcı seçin. Kayıtlı e-posta adresinize güvenli bir parola sıfırlama bağlantısı göndereceğiz",
       "reset_password_title": "Yeni şifre belirleyin",
-      "email_copied": "E-posta adresi kopyalandı"
+      "email_copied": "E-posta adresi kopyalandı",
+      "messenger": "Messenger",
+      "groups": "Gruplar",
+      "channels": "Kanallar",
+      "users": "Kullanıcılar",
+      "notifications": "Bildirimler",
+      "settings": "Ayarlar",
+      "my_profile": "Profilim"
     },
     "enum": {
       "male": "Erkek",

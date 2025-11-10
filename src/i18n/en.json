@@ -195,7 +195,14 @@
       "forgot_password_title": "Forgot Password?",
       "forgot_password_subtitle": "Select an identifier to find your account. We'll send a secure password-reset link to the account's registered email address",
       "reset_password_title": "Set a new password",
-      "email_copied": "Email address has been copied"
+      "email_copied": "Email address has been copied",
+      "messenger": "Messenger",
+      "groups": "Groups",
+      "channels": "Channels",
+      "users": "Users",
+      "notifications": "Notifications",
+      "settings": "Settings",
+      "my_profile": "My Profile"
     },
     "enum": {
       "male": "Male",

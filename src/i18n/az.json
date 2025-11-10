@@ -195,7 +195,14 @@
       "forgot_password_title": "Şifrəni unutmusunuz?",
       "forgot_password_subtitle": "Hesabınızı tapmaq üçün identifikator seçin. Qeydiyyatdan keçmiş e-poçt ünvanınıza təhlükəsiz şifrə bərpa bağlantısı göndərəcəyik.",
       "reset_password_title": "Yeni şifrə təyin edin",
-      "email_copied": "E-poçt ünvanı yadda saxlanıldı"
+      "email_copied": "E-poçt ünvanı yadda saxlanıldı",
+      "messenger": "Mesenger",
+      "groups": "Qruplar",
+      "channels": "Kanallar",
+      "users": "İstifadəçilər",
+      "notifications": "Bildirişlər",
+      "settings": "Tənzimləmələr",
+      "my_profile": "Profilim"
     },
     "enum": {
       "male": "Kişi",
