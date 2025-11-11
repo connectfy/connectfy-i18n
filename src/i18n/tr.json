@@ -202,7 +202,11 @@
       "users": "Kullanıcılar",
       "notifications": "Bildirimler",
       "settings": "Ayarlar",
-      "my_profile": "Profilim"
+      "my_profile": "Profilim",
+      "general_settings": "Genel Ayarlar",
+      "account_settings": "Hesap Ayarları",
+      "privacy_settings": "Gizlilik Ayarları",
+      "change_background": "Arka Planı Değiştir"
     },
     "enum": {
       "male": "Erkek",

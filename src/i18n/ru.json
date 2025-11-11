@@ -202,7 +202,11 @@
       "users": "Пользователи",
       "notifications": "Уведомления",
       "settings": "Настройки",
-      "my_profile": "Мой профиль"
+      "my_profile": "Мой профиль",
+      "general_settings": "Общие Hастройки",
+      "account_settings": "Настройки Аккаунта",
+      "privacy_settings": "Настройки Kонфиденциальности",
+      "change_background": "Изменить Фон"
     },
     "enum": {
       "male": "Мужчина",

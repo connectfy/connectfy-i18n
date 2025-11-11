@@ -202,7 +202,11 @@
       "users": "Users",
       "notifications": "Notifications",
       "settings": "Settings",
-      "my_profile": "My Profile"
+      "my_profile": "My Profile",
+      "general_settings": "General Settings",
+      "account_settings": "Account Settings",
+      "privacy_settings": "Privacy Settings",
+      "change_background": "Change Background"
     },
     "enum": {
       "male": "Male",

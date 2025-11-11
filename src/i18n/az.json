@@ -202,7 +202,11 @@
       "users": "İstifadəçilər",
       "notifications": "Bildirişlər",
       "settings": "Tənzimləmələr",
-      "my_profile": "Profilim"
+      "my_profile": "Profilim",
+      "general_settings": "Ümumi Parametrlər",
+      "account_settings": "Hesab Parametrləri",
+      "privacy_settings": "Məxfilik Parametrləri",
+      "change_background": "Arxa Planı Dəyişdir"
     },
     "enum": {
       "male": "Kişi",
