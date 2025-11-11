@@ -206,7 +206,21 @@
       "general_settings": "Genel Ayarlar",
       "account_settings": "Hesap Ayarları",
       "privacy_settings": "Gizlilik Ayarları",
-      "change_background": "Arka Planı Değiştir"
+      "change_background": "Arka Planı Değiştir",
+      "settings_title": "Ayarlar",
+      "settings_description": "Hesabınızı yönetin, gizliliği yapılandırın ve platformu ihtiyaçlarınıza göre özelleştirin",
+      "general": "Genel",
+      "general_description": "Dil, bildirimler ve temel ayarlar",
+      "privacy": "Gizlilik",
+      "privacy_description": "Güvenlik ve gizlilik kontrolü",
+      "appearance": "Görünüm",
+      "appearance_description": "Arka plan ve tema ayarları",
+      "account": "Hesap",
+      "account_description": "Profil bilgileri ve hesap yönetimi",
+      "quick_start": "Hızlı Başlangıç",
+      "quick_start_description": "Sol menüden istediğiniz ayar bölümünü seçin ve değişikliklerinizi yapın. Tüm ayarlar otomatik olarak kaydedilir.",
+      "security_tip": "Güvenlik Tavsiyesi",
+      "security_tip_description": "Hesabınızın güvenliğini artırmak için iki faktörlü kimlik doğrulamayı etkinleştirin ve güçlü bir şifre kullanın."
     },
     "enum": {
       "male": "Erkek",

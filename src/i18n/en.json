@@ -206,7 +206,21 @@
       "general_settings": "General Settings",
       "account_settings": "Account Settings",
       "privacy_settings": "Privacy Settings",
-      "change_background": "Change Background"
+      "change_background": "Change Background",
+      "settings_title": "Settings",
+      "settings_description": "Manage your account, configure privacy, and customize the platform to your needs",
+      "general": "General",
+      "general_description": "Language, notifications, and basic settings",
+      "privacy": "Privacy",
+      "privacy_description": "Security and privacy controls",
+      "appearance": "Appearance",
+      "appearance_description": "Background and theme settings",
+      "account": "Account",
+      "account_description": "Profile information and account management",
+      "quick_start": "Quick Start",
+      "quick_start_description": "Select the settings section you want from the left menu and make your changes. All settings are saved automatically.",
+      "security_tip": "Security Tip",
+      "security_tip_description": "Enable two-factor authentication and use a strong password to enhance your account security."
     },
     "enum": {
       "male": "Male",
