@@ -269,7 +269,7 @@
       "change_password": "Change your account password",
       "two_factor_auth": "Two-Factor Authentication (2FA)",
       "increase_security": "Increase your account security",
-      "twofa_disabled": "Disabled",
+      "disabled": "Disabled",
       "twofa_not_enabled": "2FA is not enabled",
       "enable_2fa": "Enable 2FA",
       "phone_number": "Phone Number",
@@ -333,7 +333,8 @@
       "sent_sound": "Send message sound",
       "sent_sound_desc": "Play a sound when you send a message",
       "receive_sound": "Receive message sound",
-      "receive_sound_desc": "Play a sound when you receive a new message"
+      "receive_sound_desc": "Play a sound when you receive a new message",
+      "general_notification_title": "General notification settings"
     },
     "enum": {
       "male": "Male",

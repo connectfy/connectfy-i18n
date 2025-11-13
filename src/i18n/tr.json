@@ -237,8 +237,8 @@
       "configure_app_settings": "Uygulamanın temel ayarlarını yapılandırın",
       "app_theme": "Uygulama Teması",
       "choose_light_dark_system": "Açık, koyu veya sistem temasını seçin",
-      "light": "Light",
-      "dark": "Dark",
+      "light": "Açık",
+      "dark": "Koyu",
       "language": "Dil",
       "select_app_language": "Uygulamada kullanılacak dili seçin",
       "startup_page": "Başlangıç Sayfası",
@@ -333,7 +333,8 @@
       "sent_sound": "Mesaj gönderme sesi",
       "sent_sound_desc": "Mesaj gönderildiğinde ses çal",
       "receive_sound": "Mesaj alma sesi",
-      "receive_sound_desc": "Yeni mesaj alındığında ses çal"
+      "receive_sound_desc": "Yeni mesaj alındığında ses çal",
+      "general_notification_title": "Genel bildirim ayarları"
     },
     "enum": {
       "male": "Erkek",
