@@ -334,7 +334,8 @@
       "sent_sound_desc": "Mesaj göndərərkən səs səslənsin",
       "receive_sound": "Mesaj alma səsi",
       "receive_sound_desc": "Yeni mesaj alanda səs səslənsin",
-      "general_notification_title": "Ümumi bildiriş ayarları"
+      "general_notification_title": "Ümumi bildiriş ayarları",
+      "save_changes": "Dəyişiklikləri saxla"
     },
     "enum": {
       "male": "Kişi",

@@ -334,7 +334,8 @@
       "sent_sound_desc": "Mesaj gönderildiğinde ses çal",
       "receive_sound": "Mesaj alma sesi",
       "receive_sound_desc": "Yeni mesaj alındığında ses çal",
-      "general_notification_title": "Genel bildirim ayarları"
+      "general_notification_title": "Genel bildirim ayarları",
+      "save_changes": "Değişiklikleri kaydet"
     },
     "enum": {
       "male": "Erkek",

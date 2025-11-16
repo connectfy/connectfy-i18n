@@ -334,7 +334,8 @@
       "sent_sound_desc": "Play a sound when you send a message",
       "receive_sound": "Receive message sound",
       "receive_sound_desc": "Play a sound when you receive a new message",
-      "general_notification_title": "General notification settings"
+      "general_notification_title": "General notification settings",
+      "save_changes": "Save changes"
     },
     "enum": {
       "male": "Male",
