@@ -335,7 +335,16 @@
       "receive_sound": "Receive message sound",
       "receive_sound_desc": "Play a sound when you receive a new message",
       "general_notification_title": "General notification settings",
-      "save_changes": "Save changes"
+      "save_changes": "Save changes",
+      "notification_content": "Notification display",
+      "select_default_content": "Select default notification mode",
+      "show_header_and_content": "Show header and content",
+      "show_header_and_content_desc": "Notification header and its content will be shown",
+      "show_header_only": "Show header only",
+      "show_header_only_desc": "Only the notification header will be shown and the content will not be displayed",
+      "hide_notifications": "Hide notifications",
+      "hide_notifications_desc": "Notifications will not be shown at all",
+      "message_sound_section_title": "Message sound settings"
     },
     "enum": {
       "male": "Male",

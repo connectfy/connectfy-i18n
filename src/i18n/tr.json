@@ -335,7 +335,16 @@
       "receive_sound": "Mesaj alma sesi",
       "receive_sound_desc": "Yeni mesaj alındığında ses çal",
       "general_notification_title": "Genel bildirim ayarları",
-      "save_changes": "Değişiklikleri kaydet"
+      "save_changes": "Değişiklikleri kaydet",
+      "notification_content": "Bildirim görünümü",
+      "select_default_content": "Varsayılan bildirim modunu seçin",
+      "show_header_and_content": "Başlık ve içeriği göster",
+      "show_header_and_content_desc": "Bildirim başlığı ve içeriği gösterilecektir",
+      "show_header_only": "Sadece başlığı göster",
+      "show_header_only_desc": "Yalnızca bildirim başlığı gösterilecek ve içerik görüntülenmeyecek",
+      "hide_notifications": "Bildirimleri gizle",
+      "hide_notifications_desc": "Bildirimler hiç gösterilmeyecektir",
+      "message_sound_section_title": "Mesaj ses ayarları"
     },
     "enum": {
       "male": "Erkek",

@@ -335,7 +335,16 @@
       "receive_sound": "Звук получения сообщения",
       "receive_sound_desc": "Воспроизводить звук при получении нового сообщения",
       "general_notification_title": "Общие настройки уведомлений",
-      "save_changes": "Сохранить изменения"
+      "save_changes": "Сохранить изменения",
+      "notification_content": "Отображение уведомлений",
+      "select_default_content": "Выберите режим уведомлений по умолчанию",
+      "show_header_and_content": "Показывать заголовок и содержимое",
+      "show_header_and_content_desc": "Будут показаны заголовок уведомления и его содержимое",
+      "show_header_only": "Только заголовок",
+      "show_header_only_desc": "Будет показан только заголовок уведомления и содержимое отображаться не будет",
+      "hide_notifications": "Скрыть уведомления",
+      "hide_notifications_desc": "Уведомления показаны не будут",
+      "message_sound_section_title": "Настройки звуков сообщений"
     },
     "enum": {
       "male": "Мужчина",
