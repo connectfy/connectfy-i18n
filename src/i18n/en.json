@@ -135,7 +135,8 @@
       "password_mismatch": "Passwords do not match",
       "try_again": "Try again",
       "permission_dismissed": "Permission request was dismissed",
-      "process_failed": "Something went wrong. Please try again later"
+      "process_failed": "Something went wrong. Please try again later",
+      "invalid_choice": "Invalid choice"
     },
     "user_messages": {
       "verify_successful": "Verification completed successfully",
@@ -143,7 +144,8 @@
       "login_successful": "Login successful",
       "signup_successful": "Signup completed successfully",
       "password_generated_message": "Your new password has been created and copied to your clipboard. We haven’t saved it anywhere, so make sure to store it safely — for example, in a password manager or a secure note",
-      "reset_password_successfull": "Your password has been successfully reset"
+      "reset_password_successfull": "Your password has been successfully reset",
+      "information_updated": "Information updated"
     },
     "common": {
       "login": "Login",
@@ -344,7 +346,13 @@
       "show_header_only_desc": "Only the notification header will be shown and the content will not be displayed",
       "hide_notifications": "Hide notifications",
       "hide_notifications_desc": "Notifications will not be shown at all",
-      "message_sound_section_title": "Message sound settings"
+      "message_sound_section_title": "Message sound settings",
+      "add_phone_number": "Add phone number",
+      "created_date": "Created date",
+      "unsaved_changes": "Unsaved changes",
+      "unsaved_changes_message": "You have unsaved changes. Are you sure you want to leave?",
+      "discard": "Discard",
+      "save": "Save"
     },
     "enum": {
       "male": "Male",

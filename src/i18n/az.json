@@ -135,7 +135,8 @@
       "password_mismatch": "Şifrələr uyğun gəlmir",
       "try_again": "Yenidən cəhd et",
       "permission_dismissed": "İcazə tələbi rədd edildi",
-      "process_failed": "Nəsə səhv oldu. Zəhmət olmasa bir qədər sonra yenidən cəhd edin"
+      "process_failed": "Nəsə səhv oldu. Zəhmət olmasa bir qədər sonra yenidən cəhd edin",
+      "invalid_choice": "Yanlış seçim"
     },
     "user_messages": {
       "verify_successful": "Təsdiqləmə uğurla tamamlandı",
@@ -143,7 +144,8 @@
       "login_successful": "Giriş uğurla həyata keçirildi",
       "signup_successful": "Qeydiyyat uğurla tamamlandı",
       "password_generated_message": "Yeni şifrəniz yaradılıb və clipboard-a kopyalanıb. Biz onu heç yerdə saxlamamışıq, ona görə xahiş olunur, etibarlı bir yerdə (məsələn, şifrə menecerində və ya qorunan qeyddə) saxlayın.",
-      "reset_password_successfull": "Şifrəniz uğurla sıfırlandı"
+      "reset_password_successfull": "Şifrəniz uğurla sıfırlandı",
+      "information_updated": "Məlumat yeniləndi"
     },
     "common": {
       "login": "Daxil ol",
@@ -344,7 +346,13 @@
       "show_header_only_desc": "Yalnız bildiriş başlığı göstəriləcək və məzmun görünməyəcək",
       "hide_notifications": "Bildirişləri gizlət",
       "hide_notifications_desc": "Bildirişlər ümumiyyətlə göstərilməyəcək",
-      "message_sound_section_title": "Mesaj səs ayarları"
+      "message_sound_section_title": "Mesaj səs ayarları",
+      "add_phone_number": "Telefon nömrəsi əlavə et",
+      "created_date": "Yaradılma tarixi",
+      "unsaved_changes": "Yadda saxlanmamış dəyişikliklər",
+      "unsaved_changes_message": "Yadda saxlanmamış dəyişiklikləriniz var. Çıxmaq istədiyinizə əminsiniz?",
+      "discard": "Ləğv et",
+      "save": "Yadda saxla"
     },
     "enum": {
       "male": "Kişi",

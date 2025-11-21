@@ -135,7 +135,8 @@
       "password_mismatch": "Şifreler eşleşmiyor",
       "try_again": "Tekrar dene",
       "permission_dismissed": "İzin isteği reddedildi",
-      "process_failed": "Bir şeyler ters gitti. Lütfen daha sonra tekrar deneyin"
+      "process_failed": "Bir şeyler ters gitti. Lütfen daha sonra tekrar deneyin",
+      "invalid_choice": "Geçersiz seçim"
     },
     "user_messages": {
       "verify_successful": "Doğrulama başarıyla tamamlandı",
@@ -143,7 +144,8 @@
       "login_successful": "Giriş başarılı",
       "signup_successful": "Kayıt başarıyla tamamlandı",
       "password_generated_message": "Yeni parolanız oluşturuldu ve panoya kopyalandı. Biz parolayı hiçbir yerde saklamadık, bu yüzden lütfen güvenli bir yerde (örneğin parola yöneticisinde veya güvenli bir notta) saklayın",
-      "reset_password_successfull": "Şifreniz başarıyla sıfırlandı"
+      "reset_password_successfull": "Şifreniz başarıyla sıfırlandı",
+      "information_updated": "Bilgiler güncellendi" 
     },
     "common": {
       "login": "Giriş yap",
@@ -344,7 +346,13 @@
       "show_header_only_desc": "Yalnızca bildirim başlığı gösterilecek ve içerik görüntülenmeyecek",
       "hide_notifications": "Bildirimleri gizle",
       "hide_notifications_desc": "Bildirimler hiç gösterilmeyecektir",
-      "message_sound_section_title": "Mesaj ses ayarları"
+      "message_sound_section_title": "Mesaj ses ayarları",
+      "add_phone_number": "Telefon numarası ekle",
+      "created_date": "Oluşturulma tarihi",
+      "unsaved_changes": "Kaydedilmemiş değişiklikler",
+      "unsaved_changes_message": "Kaydedilmemiş değişiklikleriniz var. Çıkmak istediğinize emin misiniz?",
+      "discard": "Vazgeç",
+      "save": "Kaydet"
     },
     "enum": {
       "male": "Erkek",
