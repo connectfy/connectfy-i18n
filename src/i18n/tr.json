@@ -145,7 +145,7 @@
       "signup_successful": "Kayıt başarıyla tamamlandı",
       "password_generated_message": "Yeni parolanız oluşturuldu ve panoya kopyalandı. Biz parolayı hiçbir yerde saklamadık, bu yüzden lütfen güvenli bir yerde (örneğin parola yöneticisinde veya güvenli bir notta) saklayın",
       "reset_password_successfull": "Şifreniz başarıyla sıfırlandı",
-      "information_updated": "Bilgiler güncellendi" 
+      "information_updated": "Bilgiler güncellendi"
     },
     "common": {
       "login": "Giriş yap",
@@ -351,8 +351,11 @@
       "created_date": "Oluşturulma tarihi",
       "unsaved_changes": "Kaydedilmemiş değişiklikler",
       "unsaved_changes_message": "Kaydedilmemiş değişiklikleriniz var. Çıkmak istediğinize emin misiniz?",
-      "discard": "Vazgeç",
-      "save": "Kaydet"
+      "discard": "Değişiklikleri geri al",
+      "save": "Kaydet",
+      "this_field_required": "Bu alan zorunludur",
+      "authentication_required": "Kimlik doğrulaması gerekiyor",
+      "enter_password_to_continue": "Devam etmek için şifrenizi girin"
     },
     "enum": {
       "male": "Erkek",

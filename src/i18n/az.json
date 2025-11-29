@@ -351,8 +351,11 @@
       "created_date": "Yaradılma tarixi",
       "unsaved_changes": "Yadda saxlanmamış dəyişikliklər",
       "unsaved_changes_message": "Yadda saxlanmamış dəyişiklikləriniz var. Çıxmaq istədiyinizə əminsiniz?",
-      "discard": "Ləğv et",
-      "save": "Yadda saxla"
+      "discard": "Dəyişiklikləri geri qaytar",
+      "save": "Yadda saxla",
+      "this_field_required": "Bu sahə məcburidir",
+      "authentication_required": "Kimlik təsdiqləməsi tələb olunur",
+      "enter_password_to_continue": "Davam etmək üçün şifrənizi daxil edin"
     },
     "enum": {
       "male": "Kişi",

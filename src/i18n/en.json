@@ -352,7 +352,10 @@
       "unsaved_changes": "Unsaved changes",
       "unsaved_changes_message": "You have unsaved changes. Are you sure you want to leave?",
       "discard": "Discard",
-      "save": "Save"
+      "save": "Save",
+      "this_field_required": "This field required",
+      "authentication_required": "Authentication required",
+      "enter_password_to_continue": "Enter your password to continue"
     },
     "enum": {
       "male": "Male",
