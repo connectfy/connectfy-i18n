@@ -125,6 +125,18 @@
         "support": "Sualınız varsa və ya köməyə ehtiyacınız olarsa, dəstək komandamızla əlaqə saxlaya bilərsiniz:",
         "signature": "Hörmətlə,",
         "team": "Connectfy Komandası"
+      },
+      "change_email": {
+        "team": "Connectfy Komandası",
+        "intro": "Yeni e-poçta ünvanı tələbiniz qəbul edilib. Əgər bu tələbi siz etməmisinizsə, bu e-məktubu nəzərdən keçirməyin.",
+        "subject": "E-poçta Ünvanınızı Dəyişdirməyi Təsdiqləyin",
+        "support": "Yardım almaq üçün bizimlə əlaqə saxlaya bilərsiniz",
+        "button": "E-poçta Dəyişikliklərini Təsdiqləyin",
+        "fallback": "Yuxarıdakı düymə işləməzsə, aşağıdakı linki istifadə edin:",
+        "thank_you": "Bizim icmamızın bir hissəsi olduğunuz üçün təşəkkür edirik!",
+        "instruction": "Yeni e-poçta ünvanınızı təsdiqləmək üçün aşağıdakı düyməyə klikləyin.",
+        "expiry": "Bu bağlantı 1 saat ərzində etibarlıdır.",
+        "mail_subject": "E-poçta Ünvanınızı Dəyişdirməyi Təsdiqləyin"
       }
     },
     "error_messages": {
@@ -136,7 +148,15 @@
       "try_again": "Yenidən cəhd et",
       "permission_dismissed": "İcazə tələbi rədd edildi",
       "process_failed": "Nəsə səhv oldu. Zəhmət olmasa bir qədər sonra yenidən cəhd edin",
-      "invalid_choice": "Yanlış seçim"
+      "this_field_required": "Bu sahə məcburidir",
+      "invalid_choice": "Yanlış seçim",
+      "invalid_email_format": "Zəhmət olmasa düzgün e-poçt ünvanı daxil edin",
+      "email_too_long": "E-poçt ən çox 254 simvol olmalıdır",
+      "email_local_part_too_long": "@-dan əvvəlki hissə ən çox 64 simvol olmalıdır",
+      "email_consecutive_dots": "E-poçtda ardıcıl nöqtələr ola bilməz",
+      "email_invalid_local_chars": "E-poçtun @-dan əvvəlki hissəsində yaramayan simvollar var",
+      "email_invalid_domain": "E-poçt domeni etibarsızdır",
+      "password_is_required": "Şifrə tələb olunur"
     },
     "user_messages": {
       "verify_successful": "Təsdiqləmə uğurla tamamlandı",
@@ -145,7 +165,14 @@
       "signup_successful": "Qeydiyyat uğurla tamamlandı",
       "password_generated_message": "Yeni şifrəniz yaradılıb və clipboard-a kopyalanıb. Biz onu heç yerdə saxlamamışıq, ona görə xahiş olunur, etibarlı bir yerdə (məsələn, şifrə menecerində və ya qorunan qeyddə) saxlayın.",
       "reset_password_successfull": "Şifrəniz uğurla sıfırlandı",
-      "information_updated": "Məlumat yeniləndi"
+      "information_updated": "Məlumat yeniləndi",
+      "email_confirmation_sent": "Təsdiq e-poçtu göndərildi",
+      "check_inbox_for_confirmation": "Təsdiq mesajı {{email}} ünvanına göndərildi. Zəhmət olmasa inbox və spam qovluğunu yoxlayın.",
+      "check_inbox": "Təsdiq mesajı göndərildi. Zəhmət olmasa inbox və spam qovluğunu yoxlayın.",
+      "resend_confirmation": "Təsdiqi yenidən göndər",
+      "email_changed_successfully": "E-poçt uğurla dəyişdirildi",
+      "password_changed_successfully": "Şifrə uğurla dəyişdirildi",
+      "username_changed_successfully": "İstifadəçi adı uğurla dəyişdirildi"
     },
     "common": {
       "login": "Daxil ol",
@@ -353,9 +380,12 @@
       "unsaved_changes_message": "Yadda saxlanmamış dəyişiklikləriniz var. Çıxmaq istədiyinizə əminsiniz?",
       "discard": "Dəyişiklikləri geri qaytar",
       "save": "Yadda saxla",
-      "this_field_required": "Bu sahə məcburidir",
       "authentication_required": "Kimlik təsdiqləməsi tələb olunur",
-      "enter_password_to_continue": "Davam etmək üçün şifrənizi daxil edin"
+      "enter_password_to_continue": "Davam etmək üçün şifrənizi daxil edin",
+      "ok": "OK",
+      "update_email_description": "Yeni e-poçt ünvanına təsdiq linki göndərəcəyik.",
+      "change_password_description": "Hesabınız üçün yeni şifrə təyin edin.",
+      "update_username_description": "Yeni istifadəçi adı profilinizdə görünəcək."
     },
     "enum": {
       "male": "Kişi",

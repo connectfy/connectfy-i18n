@@ -125,6 +125,18 @@
         "support": "Herhangi bir sorunuz veya yardıma ihtiyacınız olursa, destek ekibimizle iletişime geçin:",
         "signature": "Saygılarımızla,",
         "team": "Connectfy Ekibi"
+      },
+      "change_email": {
+        "team": "Connectfy Ekibi",
+        "intro": "Yeni e-posta adresi talebiniz alındı. Eğer bu talebi siz yapmadıysanız, bu e-postayı görmezden gelebilirsiniz.",
+        "subject": "E-posta Değişikliğinizi Onaylayın",
+        "support": "Yardım almak için bizimle iletişime geçebilirsiniz",
+        "button": "E-posta Değişikliğini Onayla",
+        "fallback": "Eğer yukarıdaki buton çalışmazsa, aşağıdaki linki tıklayın:",
+        "thank_you": "Topluluğumuzun bir parçası olduğunuz için teşekkür ederiz!",
+        "instruction": "Yeni e-posta adresinizi onaylamak için aşağıdaki butona tıklayın.",
+        "expiry": "Bu bağlantı 1 saat içinde geçerlidir.",
+        "mail_subject": "E-posta Adresi Değişikliğinizi Onaylayın"
       }
     },
     "error_messages": {
@@ -136,7 +148,15 @@
       "try_again": "Tekrar dene",
       "permission_dismissed": "İzin isteği reddedildi",
       "process_failed": "Bir şeyler ters gitti. Lütfen daha sonra tekrar deneyin",
-      "invalid_choice": "Geçersiz seçim"
+      "this_field_required": "Bu alan zorunludur",
+      "invalid_choice": "Geçersiz seçim",
+      "invalid_email_format": "Lütfen geçerli bir e-posta adresi girin",
+      "email_too_long": "E-posta en fazla 254 karakter olmalıdır",
+      "email_local_part_too_long": "@ öncesi en fazla 64 karakter olabilir",
+      "email_consecutive_dots": "E-postada ardışık nokta olamaz",
+      "email_invalid_local_chars": "E-postanın @ öncesinde geçersiz karakterler var",
+      "email_invalid_domain": "E-posta alan adı geçersiz",
+      "password_is_required": "Şifre gerekli"
     },
     "user_messages": {
       "verify_successful": "Doğrulama başarıyla tamamlandı",
@@ -145,7 +165,14 @@
       "signup_successful": "Kayıt başarıyla tamamlandı",
       "password_generated_message": "Yeni parolanız oluşturuldu ve panoya kopyalandı. Biz parolayı hiçbir yerde saklamadık, bu yüzden lütfen güvenli bir yerde (örneğin parola yöneticisinde veya güvenli bir notta) saklayın",
       "reset_password_successfull": "Şifreniz başarıyla sıfırlandı",
-      "information_updated": "Bilgiler güncellendi"
+      "information_updated": "Bilgiler güncellendi",
+      "email_confirmation_sent": "Onay e-postası gönderildi",
+      "check_inbox_for_confirmation": "{{email}} adresine onay mesajı gönderildi. Lütfen gelen kutunuzu ve spam klasörünü kontrol edin.",
+      "check_inbox": "Onay mesajı gönderildi. Lütfen gelen kutunuzu ve spam klasörünü kontrol edin.",
+      "resend_confirmation": "Onayı tekrar gönder",
+      "email_changed_successfully": "E-posta başarıyla değiştirildi",
+      "password_changed_successfully": "Şifre başarıyla değiştirildi",
+      "username_changed_successfully": "Kullanıcı adı başarıyla değiştirildi"
     },
     "common": {
       "login": "Giriş yap",
@@ -353,9 +380,12 @@
       "unsaved_changes_message": "Kaydedilmemiş değişiklikleriniz var. Çıkmak istediğinize emin misiniz?",
       "discard": "Değişiklikleri geri al",
       "save": "Kaydet",
-      "this_field_required": "Bu alan zorunludur",
       "authentication_required": "Kimlik doğrulaması gerekiyor",
-      "enter_password_to_continue": "Devam etmek için şifrenizi girin"
+      "enter_password_to_continue": "Devam etmek için şifrenizi girin",
+      "ok": "Tamam",
+      "update_email_description": "Yeni e-posta adresinize onay bağlantısı göndereceğiz.",
+      "change_password_description": "Hesabınız için yeni bir şifre belirleyin.",
+      "update_username_description": "Yeni kullanıcı adınız profilinizde görüntülenecektir."
     },
     "enum": {
       "male": "Erkek",

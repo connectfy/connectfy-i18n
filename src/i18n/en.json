@@ -125,6 +125,18 @@
         "support": "If you have any questions or need assistance, feel free to contact our support team at",
         "signature": "Best regards,",
         "team": "Connectfy Team"
+      },
+      "change_email": {
+        "team": "The Connectfy Team",
+        "intro": "We received a request to change your email address. If you didn't request this change, please ignore this email.",
+        "subject": "Confirm Your Email Change",
+        "support": "If you need assistance, feel free to contact us at",
+        "button": "Confirm Email Change",
+        "fallback": "If the button above doesn't work, click the link below:",
+        "thank_you": "Thank you for being part of our community!",
+        "instruction": "Click the button below to confirm your new email address.",
+        "expiry": "This link will expire in 1 hour.",
+        "mail_subject": "Confirm Your Email Address Change"
       }
     },
     "error_messages": {
@@ -136,7 +148,15 @@
       "try_again": "Try again",
       "permission_dismissed": "Permission request was dismissed",
       "process_failed": "Something went wrong. Please try again later",
-      "invalid_choice": "Invalid choice"
+      "this_field_required": "This field required",
+      "invalid_choice": "Invalid choice",
+      "invalid_email_format": "Please enter a valid email address",
+      "email_too_long": "Email must be at most 254 characters",
+      "email_local_part_too_long": "The part before @ must be at most 64 characters",
+      "email_consecutive_dots": "Email must not contain consecutive dots",
+      "email_invalid_local_chars": "Email contains invalid characters before @",
+      "email_invalid_domain": "Email domain is invalid",
+      "password_is_required": "Password is required"
     },
     "user_messages": {
       "verify_successful": "Verification completed successfully",
@@ -145,7 +165,14 @@
       "signup_successful": "Signup completed successfully",
       "password_generated_message": "Your new password has been created and copied to your clipboard. We haven’t saved it anywhere, so make sure to store it safely — for example, in a password manager or a secure note",
       "reset_password_successfull": "Your password has been successfully reset",
-      "information_updated": "Information updated"
+      "information_updated": "Information updated",
+      "email_confirmation_sent": "Confirmation email sent",
+      "check_inbox_for_confirmation": "A confirmation message has been sent to {{email}}. Please check your inbox and spam folder.",
+      "check_inbox": "A confirmation message has been sent. Please check your inbox and spam folder.",
+      "resend_confirmation": "Resend confirmation",
+      "email_changed_successfully": "Email changed successfully",
+      "password_changed_successfully": "Password changed successfully",
+      "username_changed_successfully": "Username changed successfully"
     },
     "common": {
       "login": "Login",
@@ -353,9 +380,12 @@
       "unsaved_changes_message": "You have unsaved changes. Are you sure you want to leave?",
       "discard": "Discard",
       "save": "Save",
-      "this_field_required": "This field required",
       "authentication_required": "Authentication required",
-      "enter_password_to_continue": "Enter your password to continue"
+      "enter_password_to_continue": "Enter your password to continue",
+      "ok": "OK",
+      "update_email_description": "We'll send a confirmation link to the new address.",
+      "change_password_description": "Set a new password for your account.",
+      "update_username_description": "Your new username will be shown on your profile."
     },
     "enum": {
       "male": "Male",
