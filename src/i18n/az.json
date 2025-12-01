@@ -172,7 +172,8 @@
       "resend_confirmation": "Təsdiqi yenidən göndər",
       "email_changed_successfully": "E-poçt uğurla dəyişdirildi",
       "password_changed_successfully": "Şifrə uğurla dəyişdirildi",
-      "username_changed_successfully": "İstifadəçi adı uğurla dəyişdirildi"
+      "username_changed_successfully": "İstifadəçi adı uğurla dəyişdirildi",
+      "google_login_error": "Google ilə daxil olmuş istifadəçilər, şifrə və ya email dəyişdirmə funksiyalarını istifadə edə bilməzlər"
     },
     "common": {
       "login": "Daxil ol",
@@ -387,7 +388,11 @@
       "ok": "OK",
       "update_email_description": "Yeni e-poçt ünvanına təsdiq linki göndərəcəyik.",
       "change_password_description": "Hesabınız üçün yeni şifrə təyin edin.",
-      "update_username_description": "Yeni istifadəçi adı profilinizdə görünəcək."
+      "update_username_description": "Yeni istifadəçi adı profilinizdə görünəcək.",
+      "read_receipts": "Oxundu Bildirişləri",
+      "read_receipts_desc": "Oxundu bildirişlərini söndürsəniz, mesajlarınızı kiminsə oxuduğunu bildirməyəcəksiniz və siz də başqalarının mesajlarını oxuduqda xəbərdar edilməyəcəksiniz.",
+      "authenticate": "Təsdiqlə",
+      "verify_identity_to_continue": "Davam etmək üçün kimliyinizi doğrulamalısınız"
     },
     "enum": {
       "male": "Kişi",

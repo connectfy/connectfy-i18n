@@ -387,7 +387,12 @@
       "ok": "Tamam",
       "update_email_description": "Yeni e-posta adresinize onay bağlantısı göndereceğiz.",
       "change_password_description": "Hesabınız için yeni bir şifre belirleyin.",
-      "update_username_description": "Yeni kullanıcı adınız profilinizde görüntülenecektir."
+      "update_username_description": "Yeni kullanıcı adınız profilinizde görüntülenecektir.",
+      "read_receipts": "Okundu Bildirimleri",
+      "read_receipts_desc": "Okundu bildirimlerini kapatırsanız, mesajlarınızı birinin okuduğu bildirilmez ve siz de başkalarının mesajlarını okuduğunda bildirim almazsınız.",
+      "google_login_error": "Google ile giriş yapan kullanıcılar, şifre veya e-posta değiştiremezler",
+      "authenticate": "Doğrula",
+      "verify_identity_to_continue": "Devam etmek için kimliğinizi doğrulamanız gerekiyor"
     },
     "enum": {
       "male": "Erkek",

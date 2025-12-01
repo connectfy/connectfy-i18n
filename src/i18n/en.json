@@ -172,7 +172,8 @@
       "resend_confirmation": "Resend confirmation",
       "email_changed_successfully": "Email changed successfully",
       "password_changed_successfully": "Password changed successfully",
-      "username_changed_successfully": "Username changed successfully"
+      "username_changed_successfully": "Username changed successfully",
+      "google_login_error": "Users logged in with Google cannot change password, or email"
     },
     "common": {
       "login": "Login",
@@ -387,7 +388,11 @@
       "ok": "OK",
       "update_email_description": "We'll send a confirmation link to the new address.",
       "change_password_description": "Set a new password for your account.",
-      "update_username_description": "Your new username will be shown on your profile."
+      "update_username_description": "Your new username will be shown on your profile.",
+      "read_receipts": "Read Receipts",
+      "read_receipts_desc": "If you turn off read receipts, you won’t receive notifications when someone reads your messages, and they won’t see when you read theirs.",
+      "authenticate": "Authenticate",
+      "verify_identity_to_continue": "You need to verify your identity to continue"
     },
     "enum": {
       "male": "Male",
