@@ -332,6 +332,8 @@
       "location_visibility": "Кто может видеть мое местоположение",
       "social_visibility": "Кто может видеть мои ссылки на соцсети",
       "last_seen_visibility": "Кто может видеть мой последний визит",
+      "birthday_date_visibility": "Кто может видеть мою дату рождения",
+      "avatar_visibility": "Кто может видеть мой аватар",
       "privacy_level": "Уровень конфиденциальности",
       "notification_header": "Настройки уведомлений",
       "notification_subheader": "Управляйте своими уведомлениями и звуками",

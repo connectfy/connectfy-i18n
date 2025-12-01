@@ -332,6 +332,8 @@
       "location_visibility": "Məkanımı kim görə bilər",
       "social_visibility": "Sosial media linklərimi kim görə bilər",
       "last_seen_visibility": "Son görülməmi kim görə bilər",
+      "birthday_date_visibility": "Doğum tariximi kim görə bilər",
+      "avatar_visibility": "Profil şəklimi kim görə bilər",
       "privacy_level": "Məxfilik Səviyyəsi",
       "notification_header": "Bildiriş Parametrləri",
       "notification_subheader": "Bildiriş səs və üstünlüklərinizi idarə edin",

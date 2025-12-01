@@ -332,6 +332,8 @@
       "location_visibility": "Konumumu kim görebilir",
       "social_visibility": "Sosyal medya bağlantılarımı kim görebilir",
       "last_seen_visibility": "Son görülmemi kim görebilir",
+      "birthday_date_visibility": "Doğum tarihimi kim görebilir",
+      "avatar_visibility": "Profil resmimi kim görebilir",
       "privacy_level": "Gizlilik Seviyesi",
       "notification_header": "Bildirim Ayarları",
       "notification_subheader": "Bildirim tercihlerinizi ve sesleri yönetin",

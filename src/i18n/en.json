@@ -332,6 +332,8 @@
       "location_visibility": "Who can see my location",
       "social_visibility": "Who can see my social media links",
       "last_seen_visibility": "Who can see my last seen",
+      "birthday_date_visibility": "Who can see my birthday date",
+      "avatar_visibility": "Who can see my avatar",
       "privacy_level": "Privacy Level",
       "notification_header": "Notification Settings",
       "notification_subheader": "Manage your notification preferences and sounds",
