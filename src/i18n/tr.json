@@ -172,7 +172,8 @@
       "resend_confirmation": "Onayı tekrar gönder",
       "email_changed_successfully": "E-posta başarıyla değiştirildi",
       "password_changed_successfully": "Şifre başarıyla değiştirildi",
-      "username_changed_successfully": "Kullanıcı adı başarıyla değiştirildi"
+      "username_changed_successfully": "Kullanıcı adı başarıyla değiştirildi",
+      "google_login_error": "Google ile giriş yapan kullanıcılar, şifre veya e-posta değiştiremezler"
     },
     "common": {
       "login": "Giriş yap",
@@ -390,7 +391,6 @@
       "update_username_description": "Yeni kullanıcı adınız profilinizde görüntülenecektir.",
       "read_receipts": "Okundu Bildirimleri",
       "read_receipts_desc": "Okundu bildirimlerini kapatırsanız, mesajlarınızı birinin okuduğu bildirilmez ve siz de başkalarının mesajlarını okuduğunda bildirim almazsınız.",
-      "google_login_error": "Google ile giriş yapan kullanıcılar, şifre veya e-posta değiştiremezler",
       "authenticate": "Doğrula",
       "verify_identity_to_continue": "Devam etmek için kimliğinizi doğrulamanız gerekiyor"
     },
