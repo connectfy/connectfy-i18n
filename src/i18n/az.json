@@ -403,7 +403,11 @@
       "delete_your_phone_number": "Telefon nömrənizi silin",
       "update_phone_number_description": "Telefon nömrənizi yeniləyin ki, bizimlə əlaqə saxlaya biləsiniz.",
       "manage_phone_number_description": "Burada telefon nömrənizi yeniləyə və ya silə bilərsiniz.",
-      "this_field_required": "Bu sahə vacibdir"
+      "this_field_required": "Bu sahə vacibdir",
+      "reset_settings_title": "Ayarları sıfırlamaq istədiyinizdən əminsiniz?",
+      "reset_settings_subtitle": "Ayarları sıfırladığınız zaman aşağıdakı parametrlər sıfırlanacaq:",
+      "general_settings_reset": "Ümumi Ayarlar (Dil və Tema xaric)",
+      "reset": "Sıfırla"
     },
     "enum": {
       "male": "Kişi",

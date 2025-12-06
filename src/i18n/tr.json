@@ -403,7 +403,11 @@
       "delete_your_phone_number": "Telefon numaranızı silin",
       "update_phone_number_description": "Bizimle iletişimde kalabilmeniz için telefon numaranızı güncelleyin.",
       "manage_phone_number_description": "Buradan telefon numaranızı güncelleyebilir veya silebilirsiniz.",
-      "this_field_required": "Bu alan zorunludur"
+      "this_field_required": "Bu alan zorunludur",
+      "reset_settings_title": "Ayarları sıfırlamak istediğinizden emin misiniz?",
+      "reset_settings_subtitle": "Ayarları sıfırlamak aşağıdaki ayarları sıfırlayacaktır:",
+      "general_settings_reset": "Genel Ayarlar (Dil ve Tema hariç)",
+      "reset": "Sıfırla"
     },
     "enum": {
       "male": "Erkek",

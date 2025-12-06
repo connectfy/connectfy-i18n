@@ -403,7 +403,11 @@
       "delete_your_phone_number": "Delete your phone number",
       "update_phone_number_description": "Update your phone number to stay connected with us.",
       "manage_phone_number_description": "You can update or remove your phone number here.",
-      "this_field_required": "This field is required"
+      "this_field_required": "This field is required",
+      "reset_settings_title": "Are you sure you want to reset the settings?",
+      "reset_settings_subtitle": "Resetting the settings will clear the following:",
+      "general_settings_reset": "General Settings (except Language and Theme)",
+      "reset": "Reset"
     },
     "enum": {
       "male": "Male",

@@ -403,7 +403,11 @@
       "delete_your_phone_number": "Удалите свой номер телефона",
       "update_phone_number_description": "Обновите свой номер телефона, чтобы оставаться на связи с нами.",
       "manage_phone_number_description": "Здесь вы можете обновить или удалить свой номер телефона.",
-      "this_field_required": "Это поле обязательно"
+      "this_field_required": "Это поле обязательно",
+      "reset_settings_title": "Вы уверены, что хотите сбросить настройки?",
+      "reset_settings_subtitle": "Сброс настроек приведет к очистке следующих параметров:",
+      "general_settings_reset": "Общие настройки (кроме языка и темы)",
+      "reset": "Сброс"
     },
     "enum": {
       "male": "Мужчина",
