@@ -48,7 +48,8 @@
       "date_or_null": "{{field}} должно быть допустимой датой",
       "boolean_type": "{{field}} должен быть булевым (boolean)",
       "boolean_invalid": "{{field}} не является допустимым булевым значением",
-      "enum_invalid": "{{field}} должен быть одним из следующих значений: {{validValues}}"
+      "enum_invalid": "{{field}} должен быть одним из следующих значений: {{validValues}}",
+      "invalid_phone_number_length": "Недопустимая длина номера телефона"
     },
     "email_messages": {
       "signup_verify": {
@@ -173,7 +174,9 @@
       "email_changed_successfully": "Электронная почта успешно изменена",
       "password_changed_successfully": "Пароль успешно изменён",
       "username_changed_successfully": "Имя пользователя успешно изменено",
-      "google_login_error": "Пользователи, вошедшие через Google, не могут изменить пароль или электронную почту"
+      "google_login_error": "Пользователи, вошедшие через Google, не могут изменить пароль или электронную почту",
+      "phone_number_removed_successfully": "Номер телефона успешно удален",
+      "phone_number_changed_successfully": "Номер телефона успешно изменен"
     },
     "common": {
       "login": "Войти",
@@ -392,7 +395,15 @@
       "read_receipts": "Уведомления о прочтении",
       "read_receipts_desc": "Если вы отключите уведомления о прочтении, вы не будете получать уведомления о том, что кто-то прочитал ваши сообщения, и они не увидят, когда вы прочитаете их сообщения.",
       "authenticate": "Аутентификация",
-      "verify_identity_to_continue": "Для продолжения необходимо подтвердить вашу личность"
+      "verify_identity_to_continue": "Для продолжения необходимо подтвердить вашу личность",
+      "manage_phone_number": "Управление номером телефона",
+      "update_phone_number": "Обновить номер телефона",
+      "remove_phone_number": "Удалить номер телефона",
+      "change_your_phone_number": "Измените свой номер телефона",
+      "delete_your_phone_number": "Удалите свой номер телефона",
+      "update_phone_number_description": "Обновите свой номер телефона, чтобы оставаться на связи с нами.",
+      "manage_phone_number_description": "Здесь вы можете обновить или удалить свой номер телефона.",
+      "this_field_required": "Это поле обязательно"
     },
     "enum": {
       "male": "Мужчина",

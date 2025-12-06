@@ -48,7 +48,8 @@
       "date_or_null": "{{field}} must be a valid date",
       "boolean_type": "{{field}} must be a boolean",
       "boolean_invalid": "{{field}} is not a valid boolean",
-      "enum_invalid": "{{field}} must be of the following values: {{validValues}}"
+      "enum_invalid": "{{field}} must be of the following values: {{validValues}}",
+      "invalid_phone_number_length": "Invalid phone number length"
     },
     "email_messages": {
       "signup_verify": {
@@ -173,7 +174,9 @@
       "email_changed_successfully": "Email changed successfully",
       "password_changed_successfully": "Password changed successfully",
       "username_changed_successfully": "Username changed successfully",
-      "google_login_error": "Users logged in with Google cannot change password, or email"
+      "google_login_error": "Users logged in with Google cannot change password, or email",
+      "phone_number_removed_successfully": "Phone number removed successfully",
+      "phone_number_changed_successfully": "Phone number changed successfully"
     },
     "common": {
       "login": "Login",
@@ -392,7 +395,15 @@
       "read_receipts": "Read Receipts",
       "read_receipts_desc": "If you turn off read receipts, you won’t receive notifications when someone reads your messages, and they won’t see when you read theirs.",
       "authenticate": "Authenticate",
-      "verify_identity_to_continue": "You need to verify your identity to continue"
+      "verify_identity_to_continue": "You need to verify your identity to continue",
+      "manage_phone_number": "Manage Phone Number",
+      "update_phone_number": "Update Phone Number",
+      "remove_phone_number": "Remove Phone Number",
+      "change_your_phone_number": "Change your phone number",
+      "delete_your_phone_number": "Delete your phone number",
+      "update_phone_number_description": "Update your phone number to stay connected with us.",
+      "manage_phone_number_description": "You can update or remove your phone number here.",
+      "this_field_required": "This field is required"
     },
     "enum": {
       "male": "Male",

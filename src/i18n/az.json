@@ -48,7 +48,8 @@
       "date_or_null": "{{field}} etibarlı tarix olmalıdır",
       "boolean_type": "{{field}} boolean (doğru/yalnış) tipində olmalıdır",
       "boolean_invalid": "{{field}} etibarlı boolean dəyəri deyil",
-      "enum_invalid": "{{field}} aşağıdakı dəyərlərdən biri olmalıdır: {{validValues}}"
+      "enum_invalid": "{{field}} aşağıdakı dəyərlərdən biri olmalıdır: {{validValues}}",
+      "invalid_phone_number_length": "Telefon nömrəsinin uzunluğu düzgün deyil"
     },
     "email_messages": {
       "signup_verify": {
@@ -173,7 +174,9 @@
       "email_changed_successfully": "E-poçt uğurla dəyişdirildi",
       "password_changed_successfully": "Şifrə uğurla dəyişdirildi",
       "username_changed_successfully": "İstifadəçi adı uğurla dəyişdirildi",
-      "google_login_error": "Google ilə daxil olmuş istifadəçilər, şifrə və ya email dəyişdirmə funksiyalarını istifadə edə bilməzlər"
+      "google_login_error": "Google ilə daxil olmuş istifadəçilər, şifrə və ya email dəyişdirmə funksiyalarını istifadə edə bilməzlər",
+      "phone_number_removed_successfully": "Telefon nömrəsi uğurla silindi",
+      "phone_number_changed_successfully": "Telefon nömrəsi uğurla dəyişdirildi"
     },
     "common": {
       "login": "Daxil ol",
@@ -392,7 +395,15 @@
       "read_receipts": "Oxundu Bildirişləri",
       "read_receipts_desc": "Oxundu bildirişlərini söndürsəniz, mesajlarınızı kiminsə oxuduğunu bildirməyəcəksiniz və siz də başqalarının mesajlarını oxuduqda xəbərdar edilməyəcəksiniz.",
       "authenticate": "Təsdiqlə",
-      "verify_identity_to_continue": "Davam etmək üçün kimliyinizi doğrulamalısınız"
+      "verify_identity_to_continue": "Davam etmək üçün kimliyinizi doğrulamalısınız",
+      "manage_phone_number": "Telefon Nömrəsini İdarə Et",
+      "update_phone_number": "Telefon Nömrəsini Yenilə",
+      "remove_phone_number": "Telefon Nömrəsini Sil",
+      "change_your_phone_number": "Telefon nömrənizi dəyişdirin",
+      "delete_your_phone_number": "Telefon nömrənizi silin",
+      "update_phone_number_description": "Telefon nömrənizi yeniləyin ki, bizimlə əlaqə saxlaya biləsiniz.",
+      "manage_phone_number_description": "Burada telefon nömrənizi yeniləyə və ya silə bilərsiniz.",
+      "this_field_required": "Bu sahə vacibdir"
     },
     "enum": {
       "male": "Kişi",
