@@ -176,7 +176,9 @@
       "username_changed_successfully": "Kullanıcı adı başarıyla değiştirildi",
       "google_login_error": "Google ile giriş yapan kullanıcılar, şifre veya e-posta değiştiremezler",
       "phone_number_removed_successfully": "Telefon numarası başarıyla silindi",
-      "phone_number_changed_successfully": "Telefon numarası başarıyla değiştirildi"
+      "phone_number_changed_successfully": "Telefon numarası başarıyla değiştirildi",
+      "account_deleted": "Hesabınız silinme için planlandı. Hesabınızı 30 gün içinde tekrar giriş yaparak geri alabilirsiniz. 30 gün sonra verileriniz kalıcı olarak silinecektir. Yardım için support@example.com ile iletişime geçin.",
+      "logout_successfull": "Başarıyla çıkış yaptınız."
     },
     "common": {
       "login": "Giriş yap",
@@ -407,7 +409,21 @@
       "reset_settings_title": "Ayarları sıfırlamak istediğinizden emin misiniz?",
       "reset_settings_subtitle": "Ayarları sıfırlamak aşağıdaki ayarları sıfırlayacaktır:",
       "general_settings_reset": "Genel Ayarlar (Dil ve Tema hariç)",
-      "reset": "Sıfırla"
+      "reset": "Sıfırla",
+      "selectReason": "Bir neden seçin",
+      "notUseful": "Yararlı değil",
+      "privacyConcerns": "Gizlilik endişeleri",
+      "foundAlternative": "Alternatif buldum",
+      "technicalIssues": "Teknik sorunlar",
+      "other": "Diğer",
+      "delete_account_title": "Hesabı sil",
+      "delete_account_description": "Hesabınızı silmek, profilinize ve içeriklerinize erişimin kalıcı olarak kaldırılması anlamına gelir. Bazı veriler yedeklerde kısa süre kalabilir. Hesabınızı 30 gün içinde geri yükleyebilirsiniz.",
+      "delete_account_reason_label": "Hesabınızı neden siliyorsunuz?",
+      "deleting": "Siliniyor...",
+      "delete_account_confirm": "Hesabı sil",
+      "logout": "Çıkış yap",
+      "logout_desc": "Çıkış yapmak istediğinize emin misiniz? Devam etmek için tekrar oturum açmanız gerekecektir.",
+      "logout_confirm": "Çıkış yap"
     },
     "enum": {
       "male": "Erkek",

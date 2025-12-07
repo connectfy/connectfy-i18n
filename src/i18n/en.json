@@ -176,7 +176,9 @@
       "username_changed_successfully": "Username changed successfully",
       "google_login_error": "Users logged in with Google cannot change password, or email",
       "phone_number_removed_successfully": "Phone number removed successfully",
-      "phone_number_changed_successfully": "Phone number changed successfully"
+      "phone_number_changed_successfully": "Phone number changed successfully",
+      "account_deleted": "Your account has been scheduled for deletion. You can restore it within 30 days by logging back in. After 30 days your data will be permanently removed. If you need help, contact support at support@example.com.",
+      "logout_successfull": "You have been logged out successfully."
     },
     "common": {
       "login": "Login",
@@ -407,7 +409,21 @@
       "reset_settings_title": "Are you sure you want to reset the settings?",
       "reset_settings_subtitle": "Resetting the settings will clear the following:",
       "general_settings_reset": "General Settings (except Language and Theme)",
-      "reset": "Reset"
+      "reset": "Reset",
+      "selectReason": "Select a reason",
+      "notUseful": "Not useful",
+      "privacyConcerns": "Privacy concerns",
+      "foundAlternative": "Found an alternative",
+      "technicalIssues": "Technical issues",
+      "other": "Other",
+      "delete_account_title": "Delete account",
+      "delete_account_description": "Deleting your account will permanently remove access to your profile and content. Some data may remain in backups for a short period. You can restore your account within 30 days.",
+      "delete_account_reason_label": "Why are you deleting your account?",
+      "deleting": "Deleting...",
+      "delete_account_confirm": "Delete account",
+      "logout": "Log out",
+      "logout_desc": "Are you sure you want to log out? You will need to sign in again to access your account.",
+      "logout_confirm": "Log out"
     },
     "enum": {
       "male": "Male",
