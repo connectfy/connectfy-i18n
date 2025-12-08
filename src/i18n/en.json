@@ -177,7 +177,7 @@
       "google_login_error": "Users logged in with Google cannot change password, or email",
       "phone_number_removed_successfully": "Phone number removed successfully",
       "phone_number_changed_successfully": "Phone number changed successfully",
-      "account_deleted": "Your account has been scheduled for deletion. You can restore it within 30 days by logging back in. After 30 days your data will be permanently removed. If you need help, contact support at support@example.com.",
+      "account_deleted": "Your account has been scheduled for deletion. You can restore it within 30 days by logging back in. After 30 days your data will be permanently removed. If you need help, contact support at conenctfy.team@gmail.com.",
       "logout_successfull": "You have been logged out successfully."
     },
     "common": {

@@ -177,7 +177,7 @@
       "google_login_error": "Google ile giriş yapan kullanıcılar, şifre veya e-posta değiştiremezler",
       "phone_number_removed_successfully": "Telefon numarası başarıyla silindi",
       "phone_number_changed_successfully": "Telefon numarası başarıyla değiştirildi",
-      "account_deleted": "Hesabınız silinme için planlandı. Hesabınızı 30 gün içinde tekrar giriş yaparak geri alabilirsiniz. 30 gün sonra verileriniz kalıcı olarak silinecektir. Yardım için support@example.com ile iletişime geçin.",
+      "account_deleted": "Hesabınız silinme için planlandı. Hesabınızı 30 gün içinde tekrar giriş yaparak geri alabilirsiniz. 30 gün sonra verileriniz kalıcı olarak silinecektir. Yardım için conenctfy.team@gmail.com ile iletişime geçin.",
       "logout_successfull": "Başarıyla çıkış yaptınız."
     },
     "common": {
