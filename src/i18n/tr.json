@@ -178,7 +178,8 @@
       "phone_number_removed_successfully": "Telefon numarası başarıyla silindi",
       "phone_number_changed_successfully": "Telefon numarası başarıyla değiştirildi",
       "account_deleted": "Hesabınız silinme için planlandı. Hesabınızı 30 gün içinde tekrar giriş yaparak geri alabilirsiniz. 30 gün sonra verileriniz kalıcı olarak silinecektir. Yardım için conenctfy.team@gmail.com ile iletişime geçin.",
-      "logout_successfull": "Başarıyla çıkış yaptınız."
+      "logout_successfull": "Başarıyla çıkış yaptınız.",
+      "restore_account_successful": "Hesabınız başarıyla geri yüklendi."
     },
     "common": {
       "login": "Giriş yap",
@@ -423,7 +424,8 @@
       "delete_account_confirm": "Hesabı sil",
       "logout": "Çıkış yap",
       "logout_desc": "Çıkış yapmak istediğinize emin misiniz? Devam etmek için tekrar oturum açmanız gerekecektir.",
-      "logout_confirm": "Çıkış yap"
+      "logout_confirm": "Çıkış yap",
+      "restoring_account": "Hesabınız geri yükleniyor. Bu biraz zaman alabilir. Lütfen bu sekmeyi kapatmayın."
     },
     "enum": {
       "male": "Erkek",

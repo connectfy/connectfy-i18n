@@ -178,7 +178,8 @@
       "phone_number_removed_successfully": "Phone number removed successfully",
       "phone_number_changed_successfully": "Phone number changed successfully",
       "account_deleted": "Your account has been scheduled for deletion. You can restore it within 30 days by logging back in. After 30 days your data will be permanently removed. If you need help, contact support at conenctfy.team@gmail.com.",
-      "logout_successfull": "You have been logged out successfully."
+      "logout_successfull": "You have been logged out successfully.",
+      "restore_account_successful": "Your account has been successfully restored."
     },
     "common": {
       "login": "Login",
@@ -423,7 +424,8 @@
       "delete_account_confirm": "Delete account",
       "logout": "Log out",
       "logout_desc": "Are you sure you want to log out? You will need to sign in again to access your account.",
-      "logout_confirm": "Log out"
+      "logout_confirm": "Log out",
+      "restoring_account": "Restoring your account. This may take a moment. Please do not close this tab."
     },
     "enum": {
       "male": "Male",
