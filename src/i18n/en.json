@@ -144,7 +144,7 @@
       "invalid_phone_number_length": "Phone number length is invalid",
       "invalid_username": "Username is invalid",
       "invalid_email": "Email address is invalid",
-      "password_rule": "Password must contain at least one lowercase letter, one uppercase letter, one number, one special character, and be at least 8 characters long",
+      "password_rule": "Password must contain at least one lowercase letter, one uppercase letter, one number, one special character, and be 8–30 characters long",
       "password_mismatch": "Passwords do not match",
       "try_again": "Try again",
       "permission_dismissed": "Permission request was dismissed",
@@ -157,7 +157,9 @@
       "email_consecutive_dots": "Email must not contain consecutive dots",
       "email_invalid_local_chars": "Email contains invalid characters before @",
       "email_invalid_domain": "Email domain is invalid",
-      "password_is_required": "Password is required"
+      "password_is_required": "Password is required",
+      "min_length": "Must be at least {{length}} characters long",
+      "max_length": "Must be at most {{length}} characters long"
     },
     "user_messages": {
       "verify_successful": "Verification completed successfully",

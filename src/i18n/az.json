@@ -144,7 +144,7 @@
       "invalid_phone_number_length": "Telefon nömrəsinin uzunluğu düzgün deyil",
       "invalid_username": "İstifadəçi adı düzgün deyil",
       "invalid_email": "E-poçt ünvanı düzgün deyil",
-      "password_rule": "Şifrə ən azı 1 kiçik, 1 böyük hərf, 1 rəqəm, 1 xüsusi simvol və minimum 8 simvoldan ibarət olmalıdır",
+      "password_rule": "Şifrə ən azı 1 kiçik, 1 böyük hərf, 1 rəqəm, 1 xüsusi simvol və 8–30 simvoldan ibarət olmalıdır",
       "password_mismatch": "Şifrələr uyğun gəlmir",
       "try_again": "Yenidən cəhd et",
       "permission_dismissed": "İcazə tələbi rədd edildi",
@@ -157,7 +157,9 @@
       "email_consecutive_dots": "E-poçtda ardıcıl nöqtələr ola bilməz",
       "email_invalid_local_chars": "E-poçtun @-dan əvvəlki hissəsində yaramayan simvollar var",
       "email_invalid_domain": "E-poçt domeni etibarsızdır",
-      "password_is_required": "Şifrə tələb olunur"
+      "password_is_required": "Şifrə tələb olunur",
+      "min_length": "Minimum {{length}} simvol olmalıdır",
+      "max_length": "Maksimum {{length}} simvol ola bilər"
     },
     "user_messages": {
       "verify_successful": "Təsdiqləmə uğurla tamamlandı",

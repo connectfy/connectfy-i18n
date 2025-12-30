@@ -144,7 +144,7 @@
       "invalid_phone_number_length": "Geçersiz telefon numarası uzunluğu",
       "invalid_username": "Geçersiz kullanıcı adı",
       "invalid_email": "Geçersiz e-posta adresi",
-      "password_rule": "Şifre en az bir küçük harf, bir büyük harf, bir sayı, bir özel karakter içermeli ve en az 8 karakter uzunluğunda olmalıdır",
+      "password_rule": "Şifre en az bir küçük harf, bir büyük harf, bir sayı, bir özel karakter içermeli ve 8–30 karakter uzunluğunda olmalıdır",
       "password_mismatch": "Şifreler eşleşmiyor",
       "try_again": "Tekrar dene",
       "permission_dismissed": "İzin isteği reddedildi",
@@ -157,7 +157,9 @@
       "email_consecutive_dots": "E-postada ardışık nokta olamaz",
       "email_invalid_local_chars": "E-postanın @ öncesinde geçersiz karakterler var",
       "email_invalid_domain": "E-posta alan adı geçersiz",
-      "password_is_required": "Şifre gerekli"
+      "password_is_required": "Şifre gerekli",
+      "min_length": "En az {{length}} karakter olmalıdır",
+      "max_length": "En fazla {{length}} karakter olabilir"
     },
     "user_messages": {
       "verify_successful": "Doğrulama başarıyla tamamlandı",
