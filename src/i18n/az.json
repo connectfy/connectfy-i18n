@@ -447,7 +447,13 @@
       "no_social_links": "Sosial keçid əlavə edilməyib",
       "open": "Aç",
       "copy": "Kopyala",
-      "remove": "Sil"
+      "remove": "Sil",
+      "privacy_title": "Məxfilik Parametrləri",
+      "privacy_subtitle": "Profilinizi kim görə biləcəyini seçin",
+      "privacy_everyone_description": "Profiliniz hamı tərəfindən görünə bilər. Bütün istifadəçilər məlumatlarınıza baxa biləcək.",
+      "privacy_friends_description": "Yalnız dostlarınız profilinizi görə bilər. Digər istifadəçilər məhdud məlumat görəcək.",
+      "privacy_nobody_description": "Profiliniz tamamilə gizlidir. Yalnız siz öz məlumatlarınızı görə bilərsiniz.",
+      "close": "Bağla"
     },
     "enum": {
       "male": "Kişi",
