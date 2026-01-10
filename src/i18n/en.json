@@ -453,7 +453,9 @@
       "privacy_everyone_description": "Your profile is visible to everyone. All users can view your information.",
       "privacy_friends_description": "Only your friends can see your profile. Other users will see limited information.",
       "privacy_nobody_description": "Your profile is completely private. Only you can view your information.",
-      "close": "Close"
+      "close": "Close",
+      "join_date": "Join date",
+      "device": "Device"
     },
     "enum": {
       "male": "Male",

@@ -453,7 +453,9 @@
       "privacy_everyone_description": "Profiliniz herkes tarafından görülebilir. Tüm kullanıcılar bilgilerinizi görüntüleyebilir.",
       "privacy_friends_description": "Profilinizi yalnızca arkadaşlarınız görebilir. Diğer kullanıcılar sınırlı bilgi görür.",
       "privacy_nobody_description": "Profiliniz tamamen gizlidir. Bilgilerinizi yalnızca siz görebilirsiniz.",
-      "close": "Kapat"
+      "close": "Kapat",
+      "join_date": "Katılım tarihi",
+      "device": "Cihaz"
     },
     "enum": {
       "male": "Erkek",

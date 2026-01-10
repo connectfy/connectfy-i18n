@@ -453,7 +453,9 @@
       "privacy_everyone_description": "Profiliniz hamı tərəfindən görünə bilər. Bütün istifadəçilər məlumatlarınıza baxa biləcək.",
       "privacy_friends_description": "Yalnız dostlarınız profilinizi görə bilər. Digər istifadəçilər məhdud məlumat görəcək.",
       "privacy_nobody_description": "Profiliniz tamamilə gizlidir. Yalnız siz öz məlumatlarınızı görə bilərsiniz.",
-      "close": "Bağla"
+      "close": "Bağla",
+      "join_date": "Qoşulma tarixi",
+      "device": "Cihaz"
     },
     "enum": {
       "male": "Kişi",
