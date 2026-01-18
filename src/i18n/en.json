@@ -21,7 +21,9 @@
       "invalid_length": "{{field}} must be {{length}} characters",
       "array_each": "{{field}} must not be empty or whitespace only",
       "phone_code": "{{field}} must be in format +<country code>, e.g +994",
-      "full_phone": "{{field}} must be in format +<country code><number>, e.g +994123456789"
+      "full_phone": "{{field}} must be in format +<country code><number>, e.g +994123456789",
+      "min_length": "{{field}} must be minimum {{length}} characters length",
+      "max_length": "{{field}} must be maximum {{length}} characters length"
     },
     "exception_messages": {
       "internal_server_error_message": "An unexpected error occurred. Please try again later",
@@ -455,7 +457,11 @@
       "privacy_nobody_description": "Your profile is completely private. Only you can view your information.",
       "close": "Close",
       "join_date": "Join date",
-      "device": "Device"
+      "device": "Device",
+      "just_now": "Just now",
+      "minutes_ago": "{{minute}} minutes ago",
+      "hours_ago": "{{hour}} hours ago",
+      "days_ago": "{{day}} days ago"
     },
     "enum": {
       "male": "Male",

@@ -21,7 +21,9 @@
       "invalid_length": "{{field}} {{length}} karakter uzunluğunda olmalıdır",
       "array_each": "{{field}} boş veya yalnızca boşluklardan oluşamaz",
       "phone_code": "{{field}} formatı +<ülke kodu> olmalıdır, örn +994",
-      "full_phone": "{{field}} formatı +<ülke kodu><numara> olmalıdır, örn +994123456789"
+      "full_phone": "{{field}} formatı +<ülke kodu><numara> olmalıdır, örn +994123456789",
+      "min_length": "{{field}} en az {{length}} karakter uzunluğunda olmalıdır",
+      "max_length": "{{field}} en fazla {{length}} karakter uzunluğunda olmalıdır"
     },
     "exception_messages": {
       "internal_server_error_message": "Beklenmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyin",
@@ -455,7 +457,11 @@
       "privacy_nobody_description": "Profiliniz tamamen gizlidir. Bilgilerinizi yalnızca siz görebilirsiniz.",
       "close": "Kapat",
       "join_date": "Katılım tarihi",
-      "device": "Cihaz"
+      "device": "Cihaz",
+      "just_now": "Az önce",
+      "minutes_ago": "{{minute}} dakika önce",
+      "hours_ago": "{{hour}} saat önce",
+      "days_ago": "{{day}} gün önce"
     },
     "enum": {
       "male": "Erkek",

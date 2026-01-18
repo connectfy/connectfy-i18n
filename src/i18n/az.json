@@ -21,7 +21,9 @@
       "invalid_length": "{{field}} {{length}} simvol uzunluğunda olmalıdır",
       "array_each": "{{field}} boş və ya yalnız boşluqlardan ibarət ola bilməz",
       "phone_code": "{{field}} formatı +<ölkə kodu> olmalıdır, məsələn +994",
-      "full_phone": "{{field}} formatı +<ölkə kodu><nömrə> olmalıdır, məsələn +994123456789"
+      "full_phone": "{{field}} formatı +<ölkə kodu><nömrə> olmalıdır, məsələn +994123456789",
+      "min_length": "{{field}} minimum {{length}} simvol uzunluğunda olmalıdır",
+      "max_length": "{{field}} maksimum {{length}} simvol uzunluğunda olmalıdır"
     },
     "exception_messages": {
       "internal_server_error_message": "Gözlənilməz xəta baş verdi. Zəhmət olmasa bir az sonra yenidən cəhd edin",
@@ -455,7 +457,11 @@
       "privacy_nobody_description": "Profiliniz tamamilə gizlidir. Yalnız siz öz məlumatlarınızı görə bilərsiniz.",
       "close": "Bağla",
       "join_date": "Qoşulma tarixi",
-      "device": "Cihaz"
+      "device": "Cihaz",
+      "just_now": "İndi",
+      "minutes_ago": "{{minute}} dəqiqə əvvəl",
+      "hours_ago": "{{hour}} saat əvvəl",
+      "days_ago": "{{day}} gün əvvəl"
     },
     "enum": {
       "male": "Kişi",
