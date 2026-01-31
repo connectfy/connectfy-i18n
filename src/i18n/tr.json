@@ -213,7 +213,7 @@
       "signup": "Kayıt ol",
       "google_login": "Google ile giriş yap",
       "google_signup": "Google ile kayıt ol",
-      "already_have_accpount": "Zaten bir hesabın var mı?",
+      "already_have_account": "Zaten bir hesabın var mı?",
       "do_not_have_account": "Hesabın yok mu?",
       "forgot_password": "Şifreni mi unuttun?",
       "login_with_username": "Kullanıcı adıyla giriş yap",
@@ -480,7 +480,18 @@
       "days_ago": "{{day}} gün önce",
       "weeks_ago": "{{week}} hafta önce",
       "years_ago": "{{year}} yıl önce",
-      "seconds_ago": "{{second}} saniye önce"
+      "seconds_ago": "{{second}} saniye önce",
+      "welcome_back": "Tekrar hoş geldin",
+      "please_enter_your_details_to_sign_in_to_your_account": "Lütfen hesabınıza giriş yapmak için bilgilerinizi girin",
+      "or_continue_with": "Veya devam et",
+      "light_theme": "Açık rejim",
+      "dark_theme": "Tünd rejim",
+      "join_connectfy": "Connectfy`a katıl",
+      "join_connectfy_description": "Connectfy topluluğuna katılın ve dünyanın dört bir yanından insanlarla tanışın",
+      "auth_sidebar_headline_line1": "Bağlan.",
+      "auth_sidebar_headline_line2": "İş birliği yap.",
+      "auth_sidebar_headline_line3": "Üret.",
+      "auth_sidebar_description": "Modern topluluklar ve yüksek etki yaratan ekipler için tasarlanmış minimalist bir çalışma alanı."
     },
     "enum": {
       "male": "Erkek",

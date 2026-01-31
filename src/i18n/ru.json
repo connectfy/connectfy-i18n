@@ -213,7 +213,7 @@
       "signup": "Регистрация",
       "google_login": "Войти через Google",
       "google_signup": "Зарегистрироваться через Google",
-      "already_have_accpount": "Уже есть аккаунт?",
+      "already_have_account": "Уже есть аккаунт?",
       "do_not_have_account": "Нет аккаунта?",
       "forgot_password": "Забыли пароль?",
       "login_with_username": "Войти по имени пользователя",
@@ -480,7 +480,18 @@
       "days_ago": "{{day}} дней назад",
       "weeks_ago": "{{week}} недель назад",
       "years_ago": "{{year}} лет назад",
-      "seconds_ago": "{{second}} секунд назад"
+      "seconds_ago": "{{second}} секунд назад",
+      "welcome_back": "С возвращением",
+      "please_enter_your_details_to_sign_in_to_your_account": "Пожалуйста, введите свои данные для входа в аккаунт",
+      "or_continue_with": "Или продолжить с",
+      "light_theme": "Светлая тема",
+      "dark_theme": "Темная тема",
+      "join_connectfy": "Присоединиться к Connectfy",
+      "join_connectfy_description": "Присоединяйтесь к сообществу Connectfy и общайтесь с людьми со всего мира",
+      "auth_sidebar_headline_line1": "Общайся.",
+      "auth_sidebar_headline_line2": "Сотрудничай.",
+      "auth_sidebar_headline_line3": "Создавай.",
+      "auth_sidebar_description": "Минималистичное рабочее пространство для современных сообществ и высокоэффективных команд."
     },
     "enum": {
       "male": "Мужчина",
