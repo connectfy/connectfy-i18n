@@ -491,7 +491,9 @@
       "auth_sidebar_headline_line1": "Connect.",
       "auth_sidebar_headline_line2": "Collaborate.",
       "auth_sidebar_headline_line3": "Create.",
-      "auth_sidebar_description": "The minimalist workspace designed for modern communities and high-impact teams."
+      "auth_sidebar_description": "The minimalist workspace designed for modern communities and high-impact teams.",
+      "create_an_account": "Create an account",
+      "checking_email": "Checking if the email address exists…"
     },
     "enum": {
       "male": "Male",

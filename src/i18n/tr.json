@@ -491,7 +491,9 @@
       "auth_sidebar_headline_line1": "Bağlan.",
       "auth_sidebar_headline_line2": "İş birliği yap.",
       "auth_sidebar_headline_line3": "Üret.",
-      "auth_sidebar_description": "Modern topluluklar ve yüksek etki yaratan ekipler için tasarlanmış minimalist bir çalışma alanı."
+      "auth_sidebar_description": "Modern topluluklar ve yüksek etki yaratan ekipler için tasarlanmış minimalist bir çalışma alanı.",
+      "create_an_account": "Hesap oluştur",
+      "checking_email": "E-posta adresinin mevcut olup olmadığı kontrol ediliyor…"
     },
     "enum": {
       "male": "Erkek",

@@ -491,7 +491,9 @@
       "auth_sidebar_headline_line1": "Əlaqə qur.",
       "auth_sidebar_headline_line2": "Əməkdaşlıq et.",
       "auth_sidebar_headline_line3": "Yarat.",
-      "auth_sidebar_description": "Müasir icmalar və yüksək nəticə yönümlü komandalar üçün hazırlanmış minimalist iş mühiti."
+      "auth_sidebar_description": "Müasir icmalar və yüksək nəticə yönümlü komandalar üçün hazırlanmış minimalist iş mühiti.",
+      "create_an_account": "Hesab yaradın",
+      "checking_email": "E-poçt ünvanının mövcudluğu yoxlanılır…"
     },
     "enum": {
       "male": "Kişi",
@@ -539,8 +541,8 @@
         "mar": "Mar",
         "apr": "Apr",
         "may": "May",
-        "jun": "İyn",
-        "jul": "İyl",
+        "jun": "İyun",
+        "jul": "İyul",
         "aug": "Avq",
         "sep": "Sen",
         "oct": "Okt",
