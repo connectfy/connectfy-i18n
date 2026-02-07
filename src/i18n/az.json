@@ -206,7 +206,8 @@
       "account_deleted": "Hesabınız silinmə üçün planlaşdırıldı. Hesabınızı 30 gün ərzində yenidən daxil olaraq bərpa edə bilərsiniz. 30 gündən sonra məlumatlarınız daimi olaraq silinəcək. Kömək üçün conenctfy.team@gmail.com ilə əlaqə saxlayın",
       "logout_successfull": "Uğurla çıxış etdiniz",
       "restore_account_successful": "Hesabınız uğurla bərpa edildi",
-      "account_deactivated": "Hesabınız uğurla deaktiv edildi"
+      "account_deactivated": "Hesabınız uğurla deaktiv edildi",
+      "otp_resent": "Təsdiq kodu e-poçtunuza yenidən göndərildi"
     },
     "common": {
       "login": "Daxil ol",
@@ -493,7 +494,9 @@
       "auth_sidebar_headline_line3": "Yarat.",
       "auth_sidebar_description": "Müasir icmalar və yüksək nəticə yönümlü komandalar üçün hazırlanmış minimalist iş mühiti.",
       "create_an_account": "Hesab yaradın",
-      "checking_email": "E-poçt ünvanının mövcudluğu yoxlanılır…"
+      "checking_email": "E-poçt ünvanının mövcudluğu yoxlanılır…",
+      "did_not_receive_code": "Kod almadınız?",
+      "resend_code": "Kodu yenidən göndər"
     },
     "enum": {
       "male": "Kişi",

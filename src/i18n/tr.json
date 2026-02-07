@@ -206,7 +206,8 @@
       "account_deleted": "Hesabınız silinme için planlandı. Hesabınızı 30 gün içinde tekrar giriş yaparak geri alabilirsiniz. 30 gün sonra verileriniz kalıcı olarak silinecektir. Yardım için conenctfy.team@gmail.com ile iletişime geçin",
       "logout_successfull": "Başarıyla çıkış yaptınız",
       "restore_account_successful": "Hesabınız başarıyla geri yüklendi",
-      "account_deactivated": "Hesabınız başarıyla devre dışı bırakıldı"
+      "account_deactivated": "Hesabınız başarıyla devre dışı bırakıldı",
+      "otp_resent": "Doğrulama kodu e-postanıza yeniden gönderildi"
     },
     "common": {
       "login": "Giriş yap",
@@ -493,7 +494,9 @@
       "auth_sidebar_headline_line3": "Üret.",
       "auth_sidebar_description": "Modern topluluklar ve yüksek etki yaratan ekipler için tasarlanmış minimalist bir çalışma alanı.",
       "create_an_account": "Hesap oluştur",
-      "checking_email": "E-posta adresinin mevcut olup olmadığı kontrol ediliyor…"
+      "checking_email": "E-posta adresinin mevcut olup olmadığı kontrol ediliyor…",
+      "verify_successful": "Hesap başarıyla doğrulandı!",
+      "otp_resent": "Doğrulama kodu e-postanıza yeniden gönderildi"
     },
     "enum": {
       "male": "Erkek",

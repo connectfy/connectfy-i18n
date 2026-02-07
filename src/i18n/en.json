@@ -206,7 +206,8 @@
       "account_deleted": "Your account has been scheduled for deletion. You can restore it within 30 days by logging back in. After 30 days your data will be permanently removed. If you need help, contact support at conenctfy.team@gmail.com",
       "logout_successfull": "You have been logged out successfully",
       "restore_account_successful": "Your account has been successfully restored",
-      "account_deactivated": "Your account has been successfully deactivated"
+      "account_deactivated": "Your account has been successfully deactivated",
+      "otp_resent": "Verification code has been resent to your email"
     },
     "common": {
       "login": "Login",
@@ -493,7 +494,9 @@
       "auth_sidebar_headline_line3": "Create.",
       "auth_sidebar_description": "The minimalist workspace designed for modern communities and high-impact teams.",
       "create_an_account": "Create an account",
-      "checking_email": "Checking if the email address exists…"
+      "checking_email": "Checking if the email address exists…",
+      "did_not_receive_code": "Didn't receive the code?",
+      "resend_code": "Resend code"
     },
     "enum": {
       "male": "Male",
