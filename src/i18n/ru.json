@@ -73,7 +73,8 @@
       "boolean_type": "{{field}} должен быть булевым (boolean)",
       "boolean_invalid": "{{field}} не является допустимым булевым значением",
       "enum_invalid": "{{field}} должен быть одним из следующих значений: {{validValues}}",
-      "invalid_phone_number_length": "Недопустимая длина номера телефона"
+      "invalid_phone_number_length": "Недопустимая длина номера телефона",
+      "invalid_length": "Поле {{field}} должно содержать {{length}} символов"
     },
     "email_messages": {
       "signup_verify": {

@@ -73,7 +73,8 @@
       "boolean_type": "{{field}} must be a boolean",
       "boolean_invalid": "{{field}} is not a valid boolean",
       "enum_invalid": "{{field}} must be of the following values: {{validValues}}",
-      "invalid_phone_number_length": "Invalid phone number length"
+      "invalid_phone_number_length": "Invalid phone number length",
+      "invalid_length": "{{field}} must be {{length}} characters"
     },
     "email_messages": {
       "signup_verify": {

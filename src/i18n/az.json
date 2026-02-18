@@ -73,7 +73,8 @@
       "boolean_type": "{{field}} boolean (doğru/yalnış) tipində olmalıdır",
       "boolean_invalid": "{{field}} etibarlı boolean dəyəri deyil",
       "enum_invalid": "{{field}} aşağıdakı dəyərlərdən biri olmalıdır: {{validValues}}",
-      "invalid_phone_number_length": "Telefon nömrəsinin uzunluğu düzgün deyil"
+      "invalid_phone_number_length": "Telefon nömrəsinin uzunluğu düzgün deyil",
+      "invalid_length": "{{field}} {{length}} simvol uzunluğunda olmalıdır"
     },
     "email_messages": {
       "signup_verify": {
