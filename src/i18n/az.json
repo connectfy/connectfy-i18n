@@ -183,8 +183,8 @@
       "email_invalid_local_chars": "E-poçtun @-dan əvvəlki hissəsində yaramayan simvollar var",
       "email_invalid_domain": "E-poçt domeni etibarsızdır",
       "password_is_required": "Şifrə tələb olunur",
-      "min_length": "Minimum {{length}} simvol olmalıdır",
-      "max_length": "Maksimum {{length}} simvol ola bilər"
+      "min_length": "{{field}} minimum {{length}} simvol uzunluğunda olmalıdır",
+      "max_length": "{{field}} maksimum {{length}} simvol uzunluğunda olmalıdır"
     },
     "user_messages": {
       "verify_successful": "Təsdiqləmə uğurla tamamlandı",

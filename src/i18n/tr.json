@@ -182,8 +182,8 @@
       "email_invalid_local_chars": "E-postanın @ öncesinde geçersiz karakterler var",
       "email_invalid_domain": "E-posta alan adı geçersiz",
       "password_is_required": "Şifre gerekli",
-      "min_length": "En az {{length}} karakter olmalıdır",
-      "max_length": "En fazla {{length}} karakter olabilir"
+      "min_length": "{{field}} en az {{length}} karakter uzunluğunda olmalıdır",
+      "max_length": "{{field}} en fazla {{length}} karakter uzunluğunda olmalıdır"
     },
     "user_messages": {
       "verify_successful": "Doğrulama başarıyla tamamlandı",

@@ -183,8 +183,8 @@
       "email_invalid_local_chars": "Email contains invalid characters before @",
       "email_invalid_domain": "Email domain is invalid",
       "password_is_required": "Password is required",
-      "min_length": "Must be at least {{length}} characters long",
-      "max_length": "Must be at most {{length}} characters long"
+      "min_length": "{{field}} must be minimum {{length}} characters length",
+      "max_length": "{{field}} must be maximum {{length}} characters length"
     },
     "user_messages": {
       "verify_successful": "Verification completed successfully",
