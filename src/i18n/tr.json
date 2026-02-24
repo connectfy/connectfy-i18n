@@ -304,6 +304,7 @@
       "light": "Açık",
       "dark": "Koyu",
       "language": "Dil",
+      "app_language": "Uygulama dili",
       "select_app_language": "Uygulamada kullanılacak dili seçin",
       "startup_page": "Başlangıç Sayfası",
       "which_page_on_start": "Uygulama açıldığında hangi sayfa gösterilsin",

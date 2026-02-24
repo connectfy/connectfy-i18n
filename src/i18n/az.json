@@ -305,6 +305,7 @@
       "light": "Açıq",
       "dark": "Tünd",
       "language": "Dil",
+      "app_language": "Tətbiq dili",
       "select_app_language": "Tətbiqdə istifadə ediləcək dili seçin",
       "startup_page": "Başlanğıc Səhifəsi",
       "which_page_on_start": "Tətbiq açıldıqda hansı səhifə göstərilsin",
