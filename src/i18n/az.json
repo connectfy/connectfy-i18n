@@ -499,7 +499,8 @@
       "checking_email": "E-poçt ünvanının mövcudluğu yoxlanılır…",
       "checking": "Yoxlanılır...",
       "did_not_receive_code": "Kod almadınız?",
-      "resend_code": "Kodu yenidən göndər"
+      "resend_code": "Kodu yenidən göndər",
+      "reason_description": "Səbəbi izah edin (istəyə görə)"
     },
     "enum": {
       "male": "Kişi",

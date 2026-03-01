@@ -499,7 +499,8 @@
       "checking_email": "Checking if the email address exists…",
       "checking": "Checking…",
       "did_not_receive_code": "Didn't receive the code?",
-      "resend_code": "Resend code"
+      "resend_code": "Resend code",
+      "reason_description": "Tell us more (optional)"
     },
     "enum": {
       "male": "Male",

@@ -498,7 +498,8 @@
       "checking_email": "E-posta adresinin mevcut olup olmadığı kontrol ediliyor…",
       "checking": "Kontrol ediliyor...",
       "verify_successful": "Hesap başarıyla doğrulandı!",
-      "otp_resent": "Doğrulama kodu e-postanıza yeniden gönderildi"
+      "otp_resent": "Doğrulama kodu e-postanıza yeniden gönderildi",
+      "reason_description": "Daha fazla bilgi verin (isteğe bağlı)"
     },
     "enum": {
       "male": "Erkek",
