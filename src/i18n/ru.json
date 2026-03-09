@@ -332,10 +332,11 @@
       "update_email": "Обновите свой адрес электронной почты",
       "change_password": "Измените пароль аккаунта",
       "two_factor_auth": "Двухфакторная аутентификация (2FA)",
-      "increase_security": "Повышайте безопасность своего аккаунта",
-      "twofa_disabled": "Отключено",
-      "twofa_not_enabled": "2FA не активировано",
-      "enable_2fa": "Включить 2FA",
+      "manage_two_factor_auth": "Защитите свой аккаунт с помощью двухфакторной аутентификации",
+      "enable_two_factor_authentication": "Включить двухфакторную аутентификацию",
+      "enable_two_factor_authentication_description": "Добавьте дополнительный уровень безопасности, включив двухфакторную аутентификацию.",
+      "disable_two_factor_authentication": "Отключить двухфакторную аутентификацию",
+      "disable_two_factor_authentication_description": "Вы собираетесь отключить двухфакторную аутентификацию. Это может снизить безопасность вашего аккаунта.",
       "phone_number": "Номер телефона",
       "update_phone": "Добавьте или обновите свой номер телефона",
       "account_info": "Информация об аккаунте",
@@ -486,7 +487,11 @@
       "did_not_receive_code": "Не получили код?",
       "resend_code": "Отправить код повторно",
       "reason_description": "Расскажите подробнее (необязательно)",
-      "no_result_found": "Ничего не найдено"
+      "no_result_found": "Ничего не найдено",
+      "enabled": "Включено",
+      "disabled": "Отключено",
+      "enable": "Включить",
+      "disable": "Отключить"
     },
     "enum": {
       "male": "Мужчина",

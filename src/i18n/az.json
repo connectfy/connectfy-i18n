@@ -332,10 +332,11 @@
       "update_email": "E-mail ünvanınızı yeniləyin",
       "change_password": "Hesab şifrənizi dəyişdirin",
       "two_factor_auth": "İki Faktorlu Autentifikasiya (2FA)",
-      "increase_security": "Hesabınızın təhlükəsizliyini artırın",
-      "twofa_disabled": "Deaktiv",
-      "twofa_not_enabled": "2FA aktivləşdirilməyib",
-      "enable_2fa": "2FA Aktivləşdir",
+      "manage_two_factor_auth": "Hesabınızı ikimərhələli təsdiqləmə ilə qoruyun",
+      "enable_two_factor_authentication": "İki mərhələli doğrulamanı aktiv et",
+      "enable_two_factor_authentication_description": "Hesabınızın təhlükəsizliyini artırmaq üçün iki mərhələli doğrulamanı aktiv edin.",
+      "disable_two_factor_authentication": "İki mərhələli doğrulamanı deaktiv et",
+      "disable_two_factor_authentication_description": "İki mərhələli doğrulamanı deaktiv etmək üzrəsiniz. Bu, hesabınızın təhlükəsizliyini azalda bilər.",
       "phone_number": "Telefon Nömrəsi",
       "update_phone": "Telefon nömrənizi əlavə edin və ya yeniləyin",
       "account_info": "Hesab Məlumatları",
@@ -486,7 +487,11 @@
       "did_not_receive_code": "Kod almadınız?",
       "resend_code": "Kodu yenidən göndər",
       "reason_description": "Səbəbi izah edin (istəyə görə)",
-      "no_result_found": "Heç bir nəticə tapılmadı"
+      "no_result_found": "Heç bir nəticə tapılmadı",
+      "enabled": "Aktivdir",
+      "disabled": "Deaktivdir",
+      "enable": "Aktiv et",
+      "disable": "Deaktiv et"
     },
     "enum": {
       "male": "Kişi",

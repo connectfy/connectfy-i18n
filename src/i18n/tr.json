@@ -331,10 +331,11 @@
       "update_email": "E-posta adresinizi güncelleyin",
       "change_password": "Hesap şifrenizi değiştirin",
       "two_factor_auth": "İki Faktörlü Kimlik Doğrulama (2FA)",
-      "increase_security": "Hesabınızın güvenliğini artırın",
-      "twofa_disabled": "Devre Dışı",
-      "twofa_not_enabled": "2FA etkin değil",
-      "enable_2fa": "2FA’yı Etkinleştir",
+      "manage_two_factor_auth": "Hesabınızı iki faktörlü doğrulama ile koruyun",
+      "enable_two_factor_authentication": "İki Adımlı Doğrulamayı Etkinleştir",
+      "enable_two_factor_authentication_description": "Hesabınıza ekstra bir güvenlik katmanı eklemek için iki adımlı doğrulamayı etkinleştirin.",
+      "disable_two_factor_authentication": "İki Adımlı Doğrulamayı Devre Dışı Bırak",
+      "disable_two_factor_authentication_description": "İki adımlı doğrulamayı devre dışı bırakmak üzeresiniz. Bu işlem hesabınızın güvenliğini azaltabilir.",
       "phone_number": "Telefon Numarası",
       "update_phone": "Telefon numaranızı ekleyin veya güncelleyin",
       "account_info": "Hesap Bilgileri",
@@ -485,7 +486,11 @@
       "verify_successful": "Hesap başarıyla doğrulandı!",
       "otp_resent": "Doğrulama kodu e-postanıza yeniden gönderildi",
       "reason_description": "Daha fazla bilgi verin (isteğe bağlı)",
-      "no_result_found": "Sonuç bulunamadı"
+      "no_result_found": "Sonuç bulunamadı",
+      "enabled": "Etkin",
+      "disabled": "Devre Dışı",
+      "enable": "Etkinleştir",
+      "disable": "Devre Dışı Bırak"
     },
     "enum": {
       "male": "Erkek",

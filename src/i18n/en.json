@@ -332,10 +332,11 @@
       "update_email": "Update your email address",
       "change_password": "Change your account password",
       "two_factor_auth": "Two-Factor Authentication (2FA)",
-      "increase_security": "Increase your account security",
-      "disabled": "Disabled",
-      "twofa_not_enabled": "2FA is not enabled",
-      "enable_2fa": "Enable 2FA",
+      "manage_two_factor_auth": "Protect your account with two-factor authentication",
+      "enable_two_factor_authentication": "Enable Two-Factor Authentication",
+      "enable_two_factor_authentication_description": "Add an extra layer of security to your account by enabling two-factor authentication.",
+      "disable_two_factor_authentication": "Disable Two-Factor Authentication",
+      "disable_two_factor_authentication_description": "You are about to disable two-factor authentication. Your account will be less secure.",
       "phone_number": "Phone Number",
       "update_phone": "Add or update your phone number",
       "account_info": "Account Information",
@@ -486,7 +487,11 @@
       "did_not_receive_code": "Didn't receive the code?",
       "resend_code": "Resend code",
       "reason_description": "Tell us more (optional)",
-      "no_result_found": "No results found"
+      "no_result_found": "No results found",
+      "enabled": "Enabled",
+      "disabled": "Disabled",
+      "enable": "Enable",
+      "disable": "Disable"
     },
     "enum": {
       "male": "Male",
