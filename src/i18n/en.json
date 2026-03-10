@@ -163,6 +163,15 @@
         "instruction": "Click the button below to confirm your new email address",
         "expiry": "This link will expire in 1 hour",
         "mail_subject": "Confirm Your Email Address Change"
+      },
+      "two_factor": {
+        "subject": "Security Verification Code",
+        "greeting": "Hello",
+        "instruction": "Please use the following one-time password (OTP) to sign in or update your security settings:",
+        "warning": "If you did not request this code, someone may be trying to access your account. Please change your password immediately.",
+        "support": "If you need any help, contact us at:",
+        "signature": "Best regards,",
+        "team": "Connectfy Team"
       }
     },
     "error_messages": {

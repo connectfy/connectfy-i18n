@@ -163,6 +163,15 @@
         "instruction": "Yeni e-poçta ünvanınızı təsdiqləmək üçün aşağıdakı düyməyə klikləyin",
         "expiry": "Bu bağlantı 1 saat ərzində etibarlıdır",
         "mail_subject": "E-poçta Ünvanınızı Dəyişdirməyi Təsdiqləyin"
+      },
+      "two_factor": {
+        "subject": "Təhlükəsizlik Kodu",
+        "greeting": "Salam",
+        "instruction": "Hesabınıza giriş etmək və ya təhlükəsizlik parametrlərini dəyişmək üçün aşağıdakı birdəfəlik koddan (OTP) istifadə edin:",
+        "warning": "Əgər bu sorğunu siz etməmisinizsə, lütfən dərhal şifrənizi dəyişin və hesabınızın təhlükəsizliyini yoxlayın.",
+        "support": "Kömək lazımdırsa, bizimlə əlaqə saxlayın:",
+        "signature": "Hörmətlə,",
+        "team": "Connectfy Komandası"
       }
     },
     "error_messages": {

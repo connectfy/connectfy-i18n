@@ -162,6 +162,15 @@
         "instruction": "Yeni e-posta adresinizi onaylamak için aşağıdaki butona tıklayın",
         "expiry": "Bu bağlantı 1 saat içinde geçerlidir",
         "mail_subject": "E-posta Adresi Değişikliğinizi Onaylayın"
+      },
+      "two_factor": {
+        "subject": "Güvenlik Doğrulama Kodu",
+        "greeting": "Merhaba",
+        "instruction": "Giriş yapmak veya güvenlik ayarlarınızı güncellemek için lütfen aşağıdaki tek kullanımlık kodu (OTP) kullanın:",
+        "warning": "Bu kodu siz istemediyseniz, hesabınıza erişilmeye çalışılıyor olabilir. Lütfen şifrenizi hemen değiştirin.",
+        "support": "Yardıma ihtiyacınız olursa bizimle iletişime geçin:",
+        "signature": "Saygılarımızla,",
+        "team": "Connectfy Ekibi"
       }
     },
     "error_messages": {
