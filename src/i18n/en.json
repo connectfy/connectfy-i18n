@@ -500,7 +500,12 @@
       "enabled": "Enabled",
       "disabled": "Disabled",
       "enable": "Enable",
-      "disable": "Disable"
+      "disable": "Disable",
+      "no_location_info": "No location",
+      "no_bio_info": "No bio",
+      "no_phone_data": "No phone number",
+      "edit_info_description": "Update your personal information below.",
+      "edit_bio_description": "Update your bio information below."
     },
     "enum": {
       "male": "Male",

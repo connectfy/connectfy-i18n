@@ -499,7 +499,12 @@
       "enabled": "Etkin",
       "disabled": "Devre Dışı",
       "enable": "Etkinleştir",
-      "disable": "Devre Dışı Bırak"
+      "disable": "Devre Dışı Bırak",
+      "no_location_info": "Konum eklenmemiş",
+      "no_bio_info": "Bio eklenmemiş",
+      "no_phone_data": "Telefon numarası yok",
+      "edit_info_description": "Aşağıdan kişisel bilgilerinizi güncelleyebilirsiniz.",
+      "edit_bio_description": "Aşağıdan biyografi bilgilerinizi güncelleyebilirsiniz."
     },
     "enum": {
       "male": "Erkek",

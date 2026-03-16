@@ -500,7 +500,12 @@
       "enabled": "Aktivdir",
       "disabled": "Deaktivdir",
       "enable": "Aktiv et",
-      "disable": "Deaktiv et"
+      "disable": "Deaktiv et",
+      "no_location_info": "Məkan əlavə edilməyib",
+      "no_bio_info": "Bio əlavə edilməyib",
+      "no_phone_data": "Telefon nömrəsi yoxdur",
+      "edit_info_description": "Aşağıda şəxsi məlumatlarınızı yeniləyə bilərsiniz.",
+      "edit_bio_description": "Aşağıda bio məlumatınızı yeniləyə bilərsiniz."
     },
     "enum": {
       "male": "Kişi",
