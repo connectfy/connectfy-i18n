@@ -45,7 +45,8 @@
       "min_date": "{{field}} {{minDate}} tarihinden önce olamaz",
       "max_date": "{{field}} {{maxDate}} tarihinden sonra olamaz",
       "number": "{{field}} bir sayı olmalıdır",
-      "max": "{{field}} en fazla {{max}} olmalıdır"
+      "max": "{{field}} en fazla {{max}} olmalıdır",
+      "limit_reached": "İzin verilen maksimum {{limit}} sayısına ulaştınız"
     },
     "exception_messages": {
       "internal_server_error_message": "Beklenmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyin",
@@ -192,7 +193,8 @@
       "email_invalid_domain": "E-posta alan adı geçersiz",
       "password_is_required": "Şifre gerekli",
       "min_length": "{{field}} en az {{length}} karakter uzunluğunda olmalıdır",
-      "max_length": "{{field}} en fazla {{length}} karakter uzunluğunda olmalıdır"
+      "max_length": "{{field}} en fazla {{length}} karakter uzunluğunda olmalıdır",
+      "url_invalid": "Geçersiz URL"
     },
     "user_messages": {
       "verify_successful": "Doğrulama başarıyla tamamlandı",
@@ -216,7 +218,14 @@
       "logout_successfull": "Başarıyla çıkış yaptınız",
       "restore_account_successful": "Hesabınız başarıyla geri yüklendi",
       "account_deactivated": "Hesabınız başarıyla devre dışı bırakıldı",
-      "otp_resent": "Doğrulama kodu e-postanıza yeniden gönderildi"
+      "otp_resent": "Doğrulama kodu e-postanıza yeniden gönderildi",
+      "information_added": "Bilgi başarıyla eklendi.",
+      "information_removed": "Bilgi başarıyla silindi.",
+      "informations_removed": "Bilgiler başarıyla silindi.",
+      "information_removed_count": "{{count}} bilgi silindi.",
+      "remove_social_link_title": "Sosyal bağlantıyı sil",
+      "remove_social_link_desc": "Bu sosyal bağlantıyı silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
+      "remove_social_links_desc": "{{count}} sosyal bağlantıyı silmek istediğinizden emin misiniz? Bu işlem geri alınamaz."
     },
     "common": {
       "login": "Giriş yap",
@@ -504,7 +513,21 @@
       "no_bio_info": "Bio eklenmemiş",
       "no_phone_data": "Telefon numarası yok",
       "edit_info_description": "Aşağıdan kişisel bilgilerinizi güncelleyebilirsiniz.",
-      "edit_bio_description": "Aşağıdan biyografi bilgilerinizi güncelleyebilirsiniz."
+      "edit_bio_description": "Aşağıdan biyografi bilgilerinizi güncelleyebilirsiniz.",
+      "add_social_link": "Sosyal bağlantı ekle",
+      "add_social_link_subtitle": "Profiline sosyal medya bağlantısı ekle",
+      "platform": "Platform",
+      "name": "Ad",
+      "link": "Bağlantı",
+      "edit_social_link": "Sosyal medya bağlantısını düzenle",
+      "edit_social_link_subtitle": "Sosyal medya bağlantınızı güncelleyin",
+      "filter": "Filtre",
+      "by_rank": "Sıralamaya göre",
+      "by_newest": "En yeni",
+      "by_oldest": "En eski",
+      "select": "Seç",
+      "more": "Daha çok",
+      "reorder": "Yeniden sırala"
     },
     "enum": {
       "male": "Erkek",

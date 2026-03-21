@@ -74,7 +74,8 @@
       "boolean_invalid": "{{field}} не является допустимым булевым значением",
       "enum_invalid": "{{field}} должен быть одним из следующих значений: {{validValues}}",
       "invalid_phone_number_length": "Недопустимая длина номера телефона",
-      "invalid_length": "Поле {{field}} должно содержать {{length}} символов"
+      "invalid_length": "Поле {{field}} должно содержать {{length}} символов",
+      "limit_reached": "Вы достигли максимального количества {{limit}}"
     },
     "email_messages": {
       "signup_verify": {
@@ -193,7 +194,8 @@
       "email_invalid_domain": "Домен электронной почты недействителен",
       "password_is_required": "Требуется пароль",
       "min_length": "Поле {{field}} должно содержать минимум {{length}} символов",
-      "max_length": "Поле {{field}} должно содержать максимум {{length}} символов"
+      "max_length": "Поле {{field}} должно содержать максимум {{length}} символов",
+      "url_invalid": "Неверный URL"
     },
     "user_messages": {
       "verify_successful": "Подтверждение успешно завершено",
@@ -217,7 +219,11 @@
       "logout_successfull": "Вы успешно вышли из системы",
       "restore_account_successful": "Ваш аккаунт был успешно восстановлен",
       "account_deactivated": "Ваш аккаунт успешно деактивирован",
-      "otp_resent": "Код подтверждения повторно отправлен на вашу почту"
+      "otp_resent": "Код подтверждения повторно отправлен на вашу почту",
+      "information_added": "Информация успешно добавлена.",
+      "information_removed": "Информация успешно удалена.",
+      "informations_removed": "Данные успешно удалены.",
+      "information_removed_count": "Удалено {{count}} элементов."
     },
     "common": {
       "login": "Войти",
@@ -505,7 +511,24 @@
       "no_bio_info": "Био не указано",
       "no_phone_data": "Нет номера телефона",
       "edit_info_description": "Ниже вы можете обновить свою личную информацию.",
-      "edit_bio_description": "Ниже вы можете обновить информацию о себе."
+      "edit_bio_description": "Ниже вы можете обновить информацию о себе.",
+      "add_social_link": "Добавить социальную ссылку",
+      "add_social_link_subtitle": "Добавьте ссылку на соцсеть в профиль",
+      "platform": "Платформа",
+      "name": "Название",
+      "link": "Ссылка",
+      "edit_social_link": "Редактировать социальную ссылку",
+      "edit_social_link_subtitle": "Обновите ссылку на социальную сеть",
+      "remove_social_link_title": "Удалить социальную ссылку",
+      "remove_social_link_desc": "Вы уверены, что хотите удалить эту социальную ссылку? Это действие нельзя отменить.",
+      "remove_social_links_desc": "Вы уверены, что хотите удалить {{count}} социальных ссылок? Это действие нельзя отменить.",
+      "filter": "Фильтр",
+      "by_rank": "По рейтингу",
+      "by_newest": "Сначала новые",
+      "by_oldest": "Сначала старые",
+      "select": "Выбрать",
+      "more": "Больше",
+      "reorder": "Переупорядочить"
     },
     "enum": {
       "male": "Мужчина",

@@ -74,7 +74,8 @@
       "boolean_invalid": "{{field}} etibarlı boolean dəyəri deyil",
       "enum_invalid": "{{field}} aşağıdakı dəyərlərdən biri olmalıdır: {{validValues}}",
       "invalid_phone_number_length": "Telefon nömrəsinin uzunluğu düzgün deyil",
-      "invalid_length": "{{field}} {{length}} simvol uzunluğunda olmalıdır"
+      "invalid_length": "{{field}} {{length}} simvol uzunluğunda olmalıdır",
+      "limit_reached": "Siz icazə verilən maksimum {{limit}} sayına çatdınız"
     },
     "email_messages": {
       "signup_verify": {
@@ -193,7 +194,8 @@
       "email_invalid_domain": "E-poçt domeni etibarsızdır",
       "password_is_required": "Şifrə tələb olunur",
       "min_length": "{{field}} minimum {{length}} simvol uzunluğunda olmalıdır",
-      "max_length": "{{field}} maksimum {{length}} simvol uzunluğunda olmalıdır"
+      "max_length": "{{field}} maksimum {{length}} simvol uzunluğunda olmalıdır",
+      "url_invalid": "URL düzgün deyil"
     },
     "user_messages": {
       "verify_successful": "Təsdiqləmə uğurla tamamlandı",
@@ -217,7 +219,11 @@
       "logout_successfull": "Uğurla çıxış etdiniz",
       "restore_account_successful": "Hesabınız uğurla bərpa edildi",
       "account_deactivated": "Hesabınız uğurla deaktiv edildi",
-      "otp_resent": "Təsdiq kodu e-poçtunuza yenidən göndərildi"
+      "otp_resent": "Təsdiq kodu e-poçtunuza yenidən göndərildi",
+      "information_added": "Məlumat uğurla əlavə edildi.",
+      "information_removed": "Məlumat uğurla silindi.",
+      "informations_removed": "Məlumatlar uğurla silindi.",
+      "information_removed_count": "{{count}} məlumat silindi."
     },
     "common": {
       "login": "Daxil ol",
@@ -505,7 +511,24 @@
       "no_bio_info": "Bio əlavə edilməyib",
       "no_phone_data": "Telefon nömrəsi yoxdur",
       "edit_info_description": "Aşağıda şəxsi məlumatlarınızı yeniləyə bilərsiniz.",
-      "edit_bio_description": "Aşağıda bio məlumatınızı yeniləyə bilərsiniz."
+      "edit_bio_description": "Aşağıda bio məlumatınızı yeniləyə bilərsiniz.",
+      "add_social_link": "Sosial link əlavə et",
+      "add_social_link_subtitle": "Profilinizə sosial şəbəkə linki əlavə edin",
+      "platform": "Platforma",
+      "name": "Ad",
+      "link": "Link",
+      "edit_social_link": "Sosial keçidi redaktə et",
+      "edit_social_link_subtitle": "Sosial şəbəkə keçidini yeniləyin",
+      "remove_social_link_title": "Sosial keçidi sil",
+      "remove_social_link_desc": "Bu sosial keçidi silmək istədiyinizə əminsiniz? Bu əməliyyat geri qaytarıla bilməz.",
+      "remove_social_links_desc": "Bu {{count}} sosial keçidi silmək istədiyinizə əminsiniz? Bu əməliyyat geri qaytarıla bilməz.",
+      "filter": "Filter",
+      "by_rank": "Reytinqə görə",
+      "by_newest": "Ən yenilər",
+      "by_oldest": "Ən köhnələr",
+      "select": "Seç",
+      "more": "Daha çox",
+      "reorder": "Yenidən sırala"
     },
     "enum": {
       "male": "Kişi",

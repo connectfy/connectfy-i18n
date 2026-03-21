@@ -74,7 +74,8 @@
       "boolean_invalid": "{{field}} is not a valid boolean",
       "enum_invalid": "{{field}} must be of the following values: {{validValues}}",
       "invalid_phone_number_length": "Invalid phone number length",
-      "invalid_length": "{{field}} must be {{length}} characters"
+      "invalid_length": "{{field}} must be {{length}} characters",
+      "limit_reached": "You have reached the maximum number of {{limit}} allowed"
     },
     "email_messages": {
       "signup_verify": {
@@ -193,7 +194,8 @@
       "email_invalid_domain": "Email domain is invalid",
       "password_is_required": "Password is required",
       "min_length": "{{field}} must be minimum {{length}} characters length",
-      "max_length": "{{field}} must be maximum {{length}} characters length"
+      "max_length": "{{field}} must be maximum {{length}} characters length",
+      "url_invalid": "Invalid URL"
     },
     "user_messages": {
       "verify_successful": "Verification completed successfully",
@@ -217,7 +219,11 @@
       "logout_successfull": "You have been logged out successfully",
       "restore_account_successful": "Your account has been successfully restored",
       "account_deactivated": "Your account has been successfully deactivated",
-      "otp_resent": "Verification code has been resent to your email"
+      "otp_resent": "Verification code has been resent to your email",
+      "information_added": "Information has been successfully added.",
+      "information_removed": "Information has been successfully removed.",
+      "informations_removed": "Information items have been successfully removed.",
+      "information_removed_count": "{{count}} items removed."
     },
     "common": {
       "login": "Login",
@@ -505,7 +511,24 @@
       "no_bio_info": "No bio",
       "no_phone_data": "No phone number",
       "edit_info_description": "Update your personal information below.",
-      "edit_bio_description": "Update your bio information below."
+      "edit_bio_description": "Update your bio information below.",
+      "add_social_link": "Add social link",
+      "add_social_link_subtitle": "Add a social media link to your profile",
+      "platform": "Platform",
+      "name": "Name",
+      "link": "Link",
+      "edit_social_link": "Edit social link",
+      "edit_social_link_subtitle": "Update your social link",
+      "remove_social_link_title": "Remove social link",
+      "remove_social_link_desc": "Are you sure you want to remove this social link? This action cannot be undone.",
+      "remove_social_links_desc": "Are you sure you want to remove these {{count}} social links? This action cannot be undone.",
+      "filter": "Filter",
+      "by_rank": "By rank",
+      "by_newest": "Newest first",
+      "by_oldest": "Oldest first",
+      "select": "Select",
+      "more": "More",
+      "reorder": "Reorder"
     },
     "enum": {
       "male": "Male",
