@@ -194,7 +194,9 @@
       "password_is_required": "Şifre gerekli",
       "min_length": "{{field}} en az {{length}} karakter uzunluğunda olmalıdır",
       "max_length": "{{field}} en fazla {{length}} karakter uzunluğunda olmalıdır",
-      "url_invalid": "Geçersiz URL"
+      "url_invalid": "Geçersiz URL",
+      "invalid_file_type": "Sadece şu formatlara izin verilir: {{formats}}",
+      "file_too_large": "Dosya boyutu {{size}}MB'dan fazla olamaz"
     },
     "user_messages": {
       "verify_successful": "Doğrulama başarıyla tamamlandı",
@@ -222,10 +224,7 @@
       "information_added": "Bilgi başarıyla eklendi.",
       "information_removed": "Bilgi başarıyla silindi.",
       "informations_removed": "Bilgiler başarıyla silindi.",
-      "information_removed_count": "{{count}} bilgi silindi.",
-      "remove_social_link_title": "Sosyal bağlantıyı sil",
-      "remove_social_link_desc": "Bu sosyal bağlantıyı silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
-      "remove_social_links_desc": "{{count}} sosyal bağlantıyı silmek istediğinizden emin misiniz? Bu işlem geri alınamaz."
+      "information_removed_count": "{{count}} bilgi silindi."
     },
     "common": {
       "login": "Giriş yap",
@@ -521,13 +520,28 @@
       "link": "Bağlantı",
       "edit_social_link": "Sosyal medya bağlantısını düzenle",
       "edit_social_link_subtitle": "Sosyal medya bağlantınızı güncelleyin",
+      "remove_social_link_title": "Sosyal bağlantıyı sil",
+      "remove_social_link_desc": "Bu sosyal bağlantıyı silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
+      "remove_social_links_desc": "{{count}} sosyal bağlantıyı silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
       "filter": "Filtre",
       "by_rank": "Sıralamaya göre",
       "by_newest": "En yeni",
       "by_oldest": "En eski",
       "select": "Seç",
       "more": "Daha çok",
-      "reorder": "Yeniden sırala"
+      "reorder": "Yeniden sırala",
+      "profile_photo": "Profil fotoğrafı",
+      "update_profile_photo": "Profil fotoğrafını güncelle",
+      "set_default_avatar": "Varsayılan avatarı ayarla",
+      "remove_profile_photo": "Profil fotoğrafını kaldır",
+      "upload_new_photo": "Yeni fotoğraf yükle",
+      "click_to_upload": "Yüklemek için tıkla",
+      "or_drag": "veya sürükleyip bırak",
+      "file_format": "PNG, JPG, WEBP veya GIF",
+      "share": "Paylaş",
+      "copy_link": "Bağlantıyı kopyala",
+      "full_size": "Tam boyut",
+      "link_copied": "Bağlantı kopyalandı!"
     },
     "enum": {
       "male": "Erkek",

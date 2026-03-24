@@ -195,7 +195,9 @@
       "password_is_required": "Требуется пароль",
       "min_length": "Поле {{field}} должно содержать минимум {{length}} символов",
       "max_length": "Поле {{field}} должно содержать максимум {{length}} символов",
-      "url_invalid": "Неверный URL"
+      "url_invalid": "Неверный URL",
+      "invalid_file_type": "Разрешены только следующие форматы: {{formats}}",
+      "file_too_large": "Размер файла не может превышать {{size}}МБ"
     },
     "user_messages": {
       "verify_successful": "Подтверждение успешно завершено",
@@ -528,7 +530,19 @@
       "by_oldest": "Сначала старые",
       "select": "Выбрать",
       "more": "Больше",
-      "reorder": "Переупорядочить"
+      "reorder": "Переупорядочить",
+      "profile_photo": "Фото профиля",
+      "update_profile_photo": "Обновить фото профиля",
+      "set_default_avatar": "Установить аватар по умолчанию",
+      "remove_profile_photo": "Удалить фото профиля",
+      "upload_new_photo": "Загрузить новое фото",
+      "click_to_upload": "Нажмите для загрузки",
+      "or_drag": "или перетащите",
+      "file_format": "PNG, JPG, WEBP или GIF",
+      "share": "Поделиться",
+      "copy_link": "Копировать ссылку",
+      "full_size": "Полный размер",
+      "link_copied": "Ссылка скопирована!"
     },
     "enum": {
       "male": "Мужчина",

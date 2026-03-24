@@ -195,7 +195,9 @@
       "password_is_required": "Password is required",
       "min_length": "{{field}} must be minimum {{length}} characters length",
       "max_length": "{{field}} must be maximum {{length}} characters length",
-      "url_invalid": "Invalid URL"
+      "url_invalid": "Invalid URL",
+      "invalid_file_type": "Only these formats are allowed: {{formats}}",
+      "file_too_large": "File size cannot exceed {{size}}MB"
     },
     "user_messages": {
       "verify_successful": "Verification completed successfully",
@@ -528,7 +530,19 @@
       "by_oldest": "Oldest first",
       "select": "Select",
       "more": "More",
-      "reorder": "Reorder"
+      "reorder": "Reorder",
+      "profile_photo": "Profile photo",
+      "update_profile_photo": "Update profile photo",
+      "set_default_avatar": "Set default avatar",
+      "remove_profile_photo": "Remove profile photo",
+      "upload_new_photo": "Upload new photo",
+      "click_to_upload": "Click to upload",
+      "or_drag": "or drag and drop",
+      "file_format": "JPEG, PNG, WEBP or GIF",
+      "share": "Share",
+      "copy_link": "Copy link",
+      "full_size": "Full size",
+      "link_copied": "Link copied!"
     },
     "enum": {
       "male": "Male",

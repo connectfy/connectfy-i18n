@@ -195,7 +195,9 @@
       "password_is_required": "Şifrə tələb olunur",
       "min_length": "{{field}} minimum {{length}} simvol uzunluğunda olmalıdır",
       "max_length": "{{field}} maksimum {{length}} simvol uzunluğunda olmalıdır",
-      "url_invalid": "URL düzgün deyil"
+      "url_invalid": "URL düzgün deyil",
+      "invalid_file_type": "Yalnız bu formatlar icazəlidir: {{formats}}",
+      "file_too_large": "Şəklin həcmi {{size}}MB-dan çox ola bilməz"
     },
     "user_messages": {
       "verify_successful": "Təsdiqləmə uğurla tamamlandı",
@@ -528,7 +530,19 @@
       "by_oldest": "Ən köhnələr",
       "select": "Seç",
       "more": "Daha çox",
-      "reorder": "Yenidən sırala"
+      "reorder": "Yenidən sırala",
+      "profile_photo": "Profil şəkli",
+      "update_profile_photo": "Profil şəklini yenilə",
+      "set_default_avatar": "Standart avatarı seç",
+      "remove_profile_photo": "Profil şəklini sil",
+      "upload_new_photo": "Yeni şəkil yüklə",
+      "click_to_upload": "Yükləmək üçün klik et",
+      "or_drag": "və ya sürüklə-burax et",
+      "file_format": "PNG, JPG, WEBP və ya GIF",
+      "share": "Paylaş",
+      "copy_link": "Linki kopyala",
+      "full_size": "Tam ölçü",
+      "link_copied": "Link kopyalandı!"
     },
     "enum": {
       "male": "Kişi",
