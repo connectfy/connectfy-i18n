@@ -542,7 +542,16 @@
       "share": "Поделиться",
       "copy_link": "Копировать ссылку",
       "full_size": "Полный размер",
-      "link_copied": "Ссылка скопирована!"
+      "link_copied": "Ссылка скопирована!",
+      "check_out_my_profile": "Посмотри мой профиль",
+      "scan_to_view_profile": "Отсканируйте для просмотра профиля",
+      "download_qr": "Скачать QR",
+      "change_avatar": "Изменить фото профиля",
+      "change_default_avatar": "Настроить аватар",
+      "format": "Стиль",
+      "use_as_default_avatar": "Сделать фото профиля",
+      "crop_photo": "Обрезать",
+      "qr_code": "QR-код"
     },
     "enum": {
       "male": "Мужчина",

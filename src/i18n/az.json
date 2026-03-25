@@ -542,7 +542,16 @@
       "share": "Paylaş",
       "copy_link": "Linki kopyala",
       "full_size": "Tam ölçü",
-      "link_copied": "Link kopyalandı!"
+      "link_copied": "Link kopyalandı!",
+      "check_out_my_profile": "Profilimə bax",
+      "scan_to_view_profile": "Profili görmək üçün skan et",
+      "download_qr": "QR-ı yüklə",
+      "change_avatar": "Profil şəklini dəyiş",
+      "change_default_avatar": "Avatarı tənzimlə",
+      "format": "Üslub",
+      "use_as_default_avatar": "Profil şəkli kimi təyin et",
+      "crop_photo": "Kəs",
+      "qr_code": "QR Kod"
     },
     "enum": {
       "male": "Kişi",

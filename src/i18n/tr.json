@@ -541,7 +541,16 @@
       "share": "Paylaş",
       "copy_link": "Bağlantıyı kopyala",
       "full_size": "Tam boyut",
-      "link_copied": "Bağlantı kopyalandı!"
+      "link_copied": "Bağlantı kopyalandı!",
+      "check_out_my_profile": "Profilime göz at",
+      "scan_to_view_profile": "Profili görüntülemek için tara",
+      "download_qr": "QR'ı indir",
+      "change_avatar": "Profil fotoğrafını değiştir",
+      "change_default_avatar": "Avatarı düzenle",
+      "format": "Stil",
+      "use_as_default_avatar": "Profil fotoğrafı yap",
+      "crop_photo": "Kırp",
+      "qr_code": "QR Kod"
     },
     "enum": {
       "male": "Erkek",

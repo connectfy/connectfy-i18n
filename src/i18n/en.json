@@ -542,7 +542,16 @@
       "share": "Share",
       "copy_link": "Copy link",
       "full_size": "Full size",
-      "link_copied": "Link copied!"
+      "link_copied": "Link copied!",
+      "check_out_my_profile": "Check out my profile",
+      "scan_to_view_profile": "Scan to view profile",
+      "download_qr": "Download QR",
+      "change_avatar": "Change profile photo",
+      "change_default_avatar": "Adjust avatar",
+      "format": "Style",
+      "use_as_default_avatar": "Set as profile photo",
+      "crop_photo": "Crop",
+      "qr_code": "QR Code"
     },
     "enum": {
       "male": "Male",
