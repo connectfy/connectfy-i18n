@@ -551,7 +551,21 @@
       "format": "Style",
       "use_as_default_avatar": "Set as profile photo",
       "crop_photo": "Crop",
-      "qr_code": "QR Code"
+      "qr_code": "QR Code",
+      "users_title": "Manage Your Connections",
+      "users_description": "Find people, manage your friends, and control your social interactions.",
+      "find_user": "Find User",
+      "find_user_description": "Search and discover new users.",
+      "friends_description": "View and manage your friends list.",
+      "close_friends": "Close Friends",
+      "close_friends_description": "People you interact with the most.",
+      "muted_users": "Muted Users",
+      "muted_users_description": "Users whose content you have muted.",
+      "friendship_requests": "Friend Requests",
+      "friendship_requests_description": "Manage incoming and outgoing requests.",
+      "blocked_users": "Blocked Users",
+      "blocked_users_description": "Users you have blocked.",
+      "search": "Search"
     },
     "enum": {
       "male": "Male",

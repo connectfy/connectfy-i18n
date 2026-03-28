@@ -550,7 +550,21 @@
       "format": "Stil",
       "use_as_default_avatar": "Profil fotoğrafı yap",
       "crop_photo": "Kırp",
-      "qr_code": "QR Kod"
+      "qr_code": "QR Kod",
+      "users_title": "Bağlantılarını Yönet",
+      "users_description": "İnsanları bul, arkadaşlarını yönet ve sosyal etkileşimlerini kontrol et.",
+      "find_user": "Kullanıcı Bul",
+      "find_user_description": "Yeni kullanıcıları ara ve keşfet.",
+      "friends_description": "Arkadaş listesini görüntüle ve yönet.",
+      "close_friends": "Yakın Arkadaşlar",
+      "close_friends_description": "En sık etkileşimde bulunduğun kişiler.",
+      "muted_users": "Sessize Alınanlar",
+      "muted_users_description": "İçeriklerini gizlediğin kullanıcılar.",
+      "friendship_requests": "Arkadaşlık İstekleri",
+      "friendship_requests_description": "Gelen ve giden istekleri yönet.",
+      "blocked_users": "Engellenen Kullanıcılar",
+      "blocked_users_description": "Engellediğin kullanıcılar.",
+      "search": "Ara"
     },
     "enum": {
       "male": "Erkek",

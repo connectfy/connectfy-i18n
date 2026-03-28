@@ -551,7 +551,21 @@
       "format": "Стиль",
       "use_as_default_avatar": "Сделать фото профиля",
       "crop_photo": "Обрезать",
-      "qr_code": "QR-код"
+      "qr_code": "QR-код",
+      "users_title": "Управление связями",
+      "users_description": "Находите людей, управляйте друзьями и контролируйте свои социальные связи.",
+      "find_user": "Найти пользователя",
+      "find_user_description": "Ищите и открывайте новых пользователей.",
+      "friends_description": "Просматривайте и управляйте списком друзей.",
+      "close_friends": "Близкие друзья",
+      "close_friends_description": "Люди, с которыми вы чаще всего общаетесь.",
+      "muted_users": "Отключённые пользователи",
+      "muted_users_description": "Пользователи, чьи публикации вы скрыли.",
+      "friendship_requests": "Заявки в друзья",
+      "friendship_requests_description": "Управляйте входящими и исходящими заявками.",
+      "blocked_users": "Заблокированные пользователи",
+      "blocked_users_description": "Пользователи, которых вы заблокировали.",
+      "search": "Поиск"
     },
     "enum": {
       "male": "Мужчина",

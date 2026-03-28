@@ -551,7 +551,21 @@
       "format": "Üslub",
       "use_as_default_avatar": "Profil şəkli kimi təyin et",
       "crop_photo": "Kəs",
-      "qr_code": "QR Kod"
+      "qr_code": "QR Kod",
+      "users_title": "Əlaqələrini idarə et",
+      "users_description": "İstifadəçiləri tap, dostlarını idarə et və sosial əlaqələrini nəzarətdə saxla.",
+      "find_user": "İstifadəçi tap",
+      "find_user_description": "Yeni istifadəçiləri axtar və kəşf et.",
+      "friends_description": "Dost siyahını görüntülə və idarə et.",
+      "close_friends": "Yaxın dostlar",
+      "close_friends_description": "Ən çox ünsiyyətdə olduğun insanlar.",
+      "muted_users": "Səssizə alınanlar",
+      "muted_users_description": "Paylaşımlarını gizlətdiyin istifadəçilər.",
+      "friendship_requests": "Dostluq istəkləri",
+      "friendship_requests_description": "Gələn və göndərilən istəkləri idarə et.",
+      "blocked_users": "Bloklanmış istifadəçilər",
+      "blocked_users_description": "Blok etdiyin istifadəçilər.",
+      "search": "Axtar"
     },
     "enum": {
       "male": "Kişi",
