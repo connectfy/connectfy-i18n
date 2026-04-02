@@ -381,6 +381,7 @@
       "last_seen_visibility": "Who can see my last seen",
       "birthday_date_visibility": "Who can see my birthday date",
       "avatar_visibility": "Who can see my avatar",
+      "phone_visibility": "Who can see my phone number",
       "privacy_level": "Privacy Level",
       "notification_header": "Notification Settings",
       "notification_subheader": "Manage your notification preferences and sounds",
@@ -565,7 +566,10 @@
       "friendship_requests_description": "Manage incoming and outgoing requests.",
       "blocked_users": "Blocked Users",
       "blocked_users_description": "Users you have blocked.",
-      "search": "Search"
+      "search": "Search",
+      "no_gender_data": "No gender",
+      "no_email_data": "No email",
+      "no_birthday_data": "No birthday"
     },
     "enum": {
       "male": "Male",

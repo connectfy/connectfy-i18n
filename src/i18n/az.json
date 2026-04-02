@@ -381,6 +381,7 @@
       "last_seen_visibility": "Son görülməmi kim görə bilər",
       "birthday_date_visibility": "Doğum tariximi kim görə bilər",
       "avatar_visibility": "Profil şəklimi kim görə bilər",
+      "phone_visibility": "Telefon nömrəmi kim görə bilər",
       "privacy_level": "Məxfilik Səviyyəsi",
       "notification_header": "Bildiriş Parametrləri",
       "notification_subheader": "Bildiriş səs və üstünlüklərinizi idarə edin",
@@ -565,7 +566,10 @@
       "friendship_requests_description": "Gələn və göndərilən istəkləri idarə et.",
       "blocked_users": "Bloklanmış istifadəçilər",
       "blocked_users_description": "Blok etdiyin istifadəçilər.",
-      "search": "Axtar"
+      "search": "Axtar",
+      "no_gender_data": "Cins yoxdur",
+      "no_email_data": "Email yoxdur",
+      "no_birthday_data": "Doğum tarixi yoxdur"
     },
     "enum": {
       "male": "Kişi",

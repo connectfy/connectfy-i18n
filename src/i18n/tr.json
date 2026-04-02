@@ -380,6 +380,7 @@
       "last_seen_visibility": "Son görülmemi kim görebilir",
       "birthday_date_visibility": "Doğum tarihimi kim görebilir",
       "avatar_visibility": "Profil resmimi kim görebilir",
+      "phone_visibility": "Telefon numaramı kim görebilir",
       "privacy_level": "Gizlilik Seviyesi",
       "notification_header": "Bildirim Ayarları",
       "notification_subheader": "Bildirim tercihlerinizi ve sesleri yönetin",
@@ -564,7 +565,10 @@
       "friendship_requests_description": "Gelen ve giden istekleri yönet.",
       "blocked_users": "Engellenen Kullanıcılar",
       "blocked_users_description": "Engellediğin kullanıcılar.",
-      "search": "Ara"
+      "search": "Ara",
+      "no_gender_data": "Cinsiyet yok",
+      "no_email_data": "E-posta yok",
+      "no_birthday_data": "Doğum tarihi yok"
     },
     "enum": {
       "male": "Erkek",

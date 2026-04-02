@@ -381,6 +381,7 @@
       "last_seen_visibility": "Кто может видеть мой последний визит",
       "birthday_date_visibility": "Кто может видеть мою дату рождения",
       "avatar_visibility": "Кто может видеть мой аватар",
+      "phone_visibility": "Кто может видеть мой номер телефона",
       "privacy_level": "Уровень конфиденциальности",
       "notification_header": "Настройки уведомлений",
       "notification_subheader": "Управляйте своими уведомлениями и звуками",
@@ -565,7 +566,10 @@
       "friendship_requests_description": "Управляйте входящими и исходящими заявками.",
       "blocked_users": "Заблокированные пользователи",
       "blocked_users_description": "Пользователи, которых вы заблокировали.",
-      "search": "Поиск"
+      "search": "Поиск",
+      "no_gender_data": "Пол не указан",
+      "no_email_data": "Email не указан",
+      "no_birthday_data": "Дата рождения не указана"
     },
     "enum": {
       "male": "Мужчина",
