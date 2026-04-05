@@ -568,7 +568,14 @@
       "search": "Ara",
       "no_gender_data": "Cinsiyet yok",
       "no_email_data": "E-posta yok",
-      "no_birthday_data": "Doğum tarihi yok"
+      "no_birthday_data": "Doğum tarihi yok",
+      "accept": "Kabul Et",
+      "decline": "Reddet",
+      "sent_friend_request": "size arkadaşlık isteği gönderdi",
+      "block_user": "Engelle",
+      "message": "Mesaj",
+      "add_friend": "Arkadaş Ekle",
+      "pending": "Beklemede"
     },
     "enum": {
       "male": "Erkek",

@@ -569,7 +569,14 @@
       "search": "Search",
       "no_gender_data": "No gender",
       "no_email_data": "No email",
-      "no_birthday_data": "No birthday"
+      "no_birthday_data": "No birthday",
+      "accept": "Accept",
+      "decline": "Decline",
+      "sent_friend_request": "sent you a friend request",
+      "block_user": "Block User",
+      "message": "Message",
+      "add_friend": "Add Friend",
+      "pending": "Pending"
     },
     "enum": {
       "male": "Male",

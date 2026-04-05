@@ -569,7 +569,14 @@
       "search": "Axtar",
       "no_gender_data": "Cins yoxdur",
       "no_email_data": "Email yoxdur",
-      "no_birthday_data": "Doğum tarixi yoxdur"
+      "no_birthday_data": "Doğum tarixi yoxdur",
+      "accept": "Qəbul et",
+      "decline": "İmtina et",
+      "sent_friend_request": "sizə dostluq istəyi göndərdi",
+      "block_user": "Blokla",
+      "message": "Mesaj",
+      "add_friend": "Dostluq at",
+      "pending": "Gözləmədə"
     },
     "enum": {
       "male": "Kişi",
